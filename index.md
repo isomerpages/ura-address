@@ -26,8 +26,8 @@ sections:
       alt: Singapore skyline picture
   - infopic:
       title: House and Unit Numbers
-      description: Properties have to be numbered for identification purposes. IRAS
-        evaluates and approves house and unit number applications.
+      description: The Inland Revenue Authority of Singapore (IRAS) ensures that
+        properties are numbered appropriately for indenfication purposes.
       button: Guidelines
       url: https://cms.isomer.gov.sg/sites/ura-address/homepage
       image: /images/Number Pic.png
