@@ -17,7 +17,9 @@ sections:
           url: https://gmail.com
   - infopic:
       title: Street and Building Names
-      description: The Street and Building Nam
+      description: The Street and Building Names Board (SBNB) ensures that street and
+        building names are appropriate in the context of the location and
+        physical attributes.
       button: Guidelines
       url: https://cms.isomer.gov.sg/sites/ura-address/homepage
       image: /images/Singapore Skyline.png
