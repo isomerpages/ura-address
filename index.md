@@ -11,10 +11,6 @@ sections:
       background: /images/Hero Image.png
       button: Submit an application
       url: https://digitalservice.ura.gov.sg/sbnb/
-      key_highlights:
-        - title: ""
-          description: ""
-          url: https://gmail.com
   - infopic:
       title: Street and Building Names
       description: The Street and Building Names Board (SBNB) ensures that street and
