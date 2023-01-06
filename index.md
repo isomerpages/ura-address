@@ -10,7 +10,7 @@ sections:
       title: Address E-servivce
       background: /images/Hero Image.png
       button: Submit an application
-      url: /contact-us/
+      url: https://digitalservice.ura.gov.sg/sbnb/
       key_highlights:
         - title: ""
           description: ""
@@ -33,5 +33,3 @@ sections:
       image: /images/Number Pic.png
       alt: House and Unit number picture
 ---
-
-
