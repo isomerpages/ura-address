@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Address E-servivce
-      background: /images/hero-banner.png
+      background: /images/Hero Image.png
       button: Submit an application
       url: /contact-us/
       key_highlights:
