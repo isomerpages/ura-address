@@ -43,7 +43,8 @@ The number shall be marked or displayed in the following manner:
 2. In the case of a house, building or other property - on the outside surface of the front door or front wall of such house or building or at the entrance of the enclosure of the property in such a position as to be clearly visible from the road in which the property is situated.
 
 3. The numerals or lettering used shall be  
-* of a colour that contrasts with the background against which they are displayed;  * large enough to be recognized from 10 metres; and  
+* of a colour that contrasts with the background against which they are displayed;
+* large enough to be recognized from 10 metres; and  
 * of durable, non-absorbent material.  
 
 4. Where a number is to be displayed on the outside surface of the front wall of a building, it shall be between 1.5 metres and 6 metres above the level of the ground. In all other cases it shall be between one metre and 2.5 metres above the level of the ground.
