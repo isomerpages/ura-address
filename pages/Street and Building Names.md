@@ -31,6 +31,6 @@ Is unique, reasonably short and easy to pronounce, spell and remember
   
 We encourage applicants to read through the naming principles and guidelines in the Handbooks below.
 
-**Submission Requirements  **
+**Submission Requirements**
   
 Before your submit application for naming of buildings / estates and streets, please read the submission requirements. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
