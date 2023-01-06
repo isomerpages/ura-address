@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: Street and Building Names
       description: The Street and Building Names Board (SBNB) ensures that street and
-        building names are appropriate in the context of the location and
+        building names are appropriate in the context of their location and
         physical attributes.
       button: Guidelines
       url: https://cms.isomer.gov.sg/sites/ura-address/homepage
@@ -33,4 +33,3 @@ sections:
       image: /images/Number Pic.png
       alt: House and Unit number picture
 ---
-
