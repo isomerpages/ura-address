@@ -5,11 +5,11 @@ description: ""
 ---
 ![](/images/Number%20Pic.png)
 
-**The Purpose of House and Unit Numbers**
+<h4>The Purpose of House and Unit Numbers</h4>
 
 Properties have to be numbered for identification purposes. The allotted number in combination with the name of the street at which it is located, forms a unique address.
 
-**Guidelines for House Numbers**
+<h4>Guidelines for House Numbers</h4>
 
 This refers to the unique number assigned to a building or development along a road.  
   
@@ -19,7 +19,7 @@ The numbering of buildings is in ascending order, with odd numbers on the left s
 b. Frontage/ Main Entrance  
 As a general rule, developments will be allotted a house number in sequence along the street where the main entrance is located.
 
-**Guidelines for Unit Numbers**
+<h4>Guidelines for Unit Numbers</h4>
 
 This refers to the number assigned to a unit within a building, where applicable. The unit number is preceded by '#' e.g. #12-456. The first two digits refer to the floor level the unit is located on, while the numbers after the hyphen sign refer to the allotted number for the particular unit.  
   
@@ -32,7 +32,7 @@ Units are generally numbered sequentially in a clockwise direction starting from
 c. Mezzanine Floors  
 A mezzanine floor with access from internal stairs within a unit on a particular floor will be considered part of that same floor. A mezzanine floor with an external access will be considered as a separate floor.
 
-**Display of House and Unit Numbers**
+<h4>Display of House and Unit Numbers</h4>
 
 The property owner is required to display the house/unit number at a conspicuous place. Failure to display the assigned number or displaying an unassigned number is an offence under the Property Tax Act.  
   
@@ -51,6 +51,6 @@ The number shall be marked or displayed in the following manner:
 
 5. Only Arabic numerals and Roman letters of the alphabet shall be used.
 
-**Submission Requirements**
+<h4>Submission Requirements</h4>
 
 Before your submit application for house and/or unit numbers, please read the submission requirements. Generally, it takes 4 weeks to process an application. Applications are free of charge.
