@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Address E-servivce
+      title: Street & Building Names and House & Unit Numbers
       background: /images/Hero Image.png
       button: Submit an application
       url: https://digitalservice.ura.gov.sg/sbnb/
