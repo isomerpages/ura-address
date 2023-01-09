@@ -11,13 +11,13 @@ Properties have to be numbered for identification purposes. The allotted number 
 
 <h4>Guidelines for House Numbers</h4>
 
-This refers to the unique number assigned to a building or development along a road.  
+<p>This refers to the unique number assigned to a building or development along a road.  
   
 a. Order and Sequence  
 The numbering of buildings is in ascending order, with odd numbers on the left side of the road and even numbers on the right side. The numbers will be in sequential order and omission of any numbers is not allowed. In situations where there are insufficient numeric numbers, alphabetical suffixes starting from A, B, C, etc. may be assigned to the numbers. The alphabets “I” and “O” are not allowed to avoid confusion.  
   
 b. Frontage/ Main Entrance  
-As a general rule, developments will be allotted a house number in sequence along the street where the main entrance is located.
+As a general rule, developments will be allotted a house number in sequence along the street where the main entrance is located.</p>
 
 <h4>Guidelines for Unit Numbers</h4>
 
@@ -37,18 +37,20 @@ A mezzanine floor with access from internal stairs within a unit on a particular
 The property owner is required to display the house/unit number at a conspicuous place. Failure to display the assigned number or displaying an unassigned number is an offence under the Property Tax Act.  
   
 The number shall be marked or displayed in the following manner:  
-  
+ 
+<p>
 1. In the case of a unit in a building - on the outside surface of the front door, or immediately adjacent to it, or in such other position as to be clearly visible from the entrance lobby or corridor on the same floor.
-
-2. In the case of a house, building or other property - on the outside surface of the front door or front wall of such house or building or at the entrance of the enclosure of the property in such a position as to be clearly visible from the road in which the property is situated.
+	
+2.In the case of a house, building or other property - on the outside surface of the front door or front wall of such house or building or at the entrance of the enclosure of the property in such a position as to be clearly visible from the road in which the property is situated.
 
 3. The numerals or lettering used shall be  
 * of a colour that contrasts with the background against which they are displayed;
 * large enough to be recognized from 10 metres; and  
 * of durable, non-absorbent material.  
 
+<p>
 4. Where a number is to be displayed on the outside surface of the front wall of a building, it shall be between 1.5 metres and 6 metres above the level of the ground. In all other cases it shall be between one metre and 2.5 metres above the level of the ground.
-
+<p>
 5. Only Arabic numerals and Roman letters of the alphabet shall be used.
 
 <h4>Submission Requirements</h4>
