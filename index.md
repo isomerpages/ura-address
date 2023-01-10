@@ -23,11 +23,9 @@ sections:
   - infopic:
       title: House and Unit Numbers
       description: The Inland Revenue Authority of Singapore (IRAS) ensures that
-        properties are numbered appropriately for indenfication purposes.
+        properties are numbered appropriately for indentification purposes.
       button: Guidelines
       url: https://cms.isomer.gov.sg/sites/ura-address/homepage
       image: /images/Number Pic.png
       alt: House and Unit number picture
 ---
-
-
