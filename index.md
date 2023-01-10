@@ -17,7 +17,7 @@ sections:
         building names are appropriate in the context of their location and
         physical attributes.
       button: Guidelines
-      url: https://cms.isomer.gov.sg/sites/ura-address/homepage
+      url: https://cms.isomer.gov.sg/sites/ura-address/permalink
       image: /images/Singapore Skyline.png
       alt: Singapore skyline picture
   - infopic:
