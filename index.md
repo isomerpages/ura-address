@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Address E-service
+title: Street & Buidling Names and House & Unit Numbers
 description: Address E-service of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -29,3 +29,4 @@ sections:
       image: /images/Number Pic.png
       alt: House and Unit number picture
 ---
+
