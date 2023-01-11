@@ -55,4 +55,4 @@ The number shall be marked or displayed in the following manner:
 
 <h4>Submission Requirements</h4>
 
-Before your submit application for house and/or unit numbers, please read the submission requirements. Generally, it takes 4 weeks to process an application. Applications are free of charge.
+Before you submit an application for house and/or unit numbers, please read the submission requirements. Generally, it takes 4 weeks to process an application. Applications are free of charge.
