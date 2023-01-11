@@ -17,7 +17,7 @@ sections:
         building names are appropriate in the context of their location and
         physical attributes.
       button: Guidelines
-      url: https://www.open.gov.sg/street-and-building-names/
+      url: /street-and-building-names
       image: /images/Singapore Skyline.png
       alt: Singapore skyline picture
   - infopic:
