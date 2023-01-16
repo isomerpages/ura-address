@@ -28,11 +28,11 @@ of the streets and buildings/estates. It is also to ensure that there are no dup
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">Who can name a street or building/estate?</label>
     <div>
       <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
+        Only the owner can name the building/estate. The owner may appoint a representative (e.g. architect) to submit the naming  
+application on their behalf.
       </p>
     </div>
   </li>
