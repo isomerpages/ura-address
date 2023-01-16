@@ -50,6 +50,6 @@ For existing buildings and streets, you may submit an application at any time.</
   </li>
 </ul>
 
-<h4>Building/Estate Name Applications</h4>
-
 <h4>Street Name Applications</h4>
+
+<h4>Building/Estate Name Applications</h4>
