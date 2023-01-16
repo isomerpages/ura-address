@@ -57,14 +57,37 @@ For existing buildings and streets, you may submit an application at any time.</
 will be notified accordingly.</p>
           </div>
   </li>
-	
 	  <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">How do I check on the status of my application?</label>
     <div>
-        <p>TYou may check your application status at any time.</p>
+        <p>You may check your application status at any time.</p>
           </div>
   </li>
+		  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">How many names can I propose for a street or building/estate in an application?</label>
+    <div>
+        <p>You may propose up to 3 names. You will need to rank the proposed names in order of your preference and provide supporting  
+reasons for each proposed name.</p>
+          </div>
+  </li>
+	  </li>
+		  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Will there be a penalty imposed for changing a name after the SBNB has given approval?</label>
+    <div>
+        <p>There is currently no penalty for changing a street or building/estate name after approval has been obtained.</p>
+          </div>
+  </li>
+			  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Which statute does the SBNB operate under?</label>
+    <div>
+        <p>The SBNB operates under the Property Tax Act.</p>
+          </div>
+  </li>
+	
 </ul>
 
 <h4>Street Name Applications</h4>
