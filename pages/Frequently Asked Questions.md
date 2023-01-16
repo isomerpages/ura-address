@@ -20,12 +20,11 @@ description: ""
 	
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">Why do I need to apply for a street or building/estate name?</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
-    </div>
+      <p>The purpose of applications is to ensure that names are appropriate in the context of the location and the physical attributes  
+of the streets and buildings/estates. It is also to ensure that there are no duplicate names.</p>
+          </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
