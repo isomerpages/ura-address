@@ -47,13 +47,9 @@ For existing buildings and streets, you may submit an application at any time.</
     
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <label for="accordion5">Is there a processing fee to be paid?</label>
     <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
-    </div>
+        <p>There is currently no processing fee to be paid.</p>
+          </div>
   </li>
 </ul>
