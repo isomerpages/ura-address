@@ -53,3 +53,11 @@ For existing buildings and streets, you may submit an application at any time.</
 <h4>Street Name Applications</h4>
 
 <h4>Building/Estate Name Applications</h4>
+
+<div class="tab">
+						<input id="question-1-1" type="checkbox">
+						<label for="question-1-1" class="tab-label">Is the vaccine free?</label>
+						<div class="tab-content">
+							<p>The vaccine is free for all Singaporeans and long-term residents in Singapore, which includes Singapore Permanent Residents, and Employment Pass holders.</p>
+						</div>
+					</div>
