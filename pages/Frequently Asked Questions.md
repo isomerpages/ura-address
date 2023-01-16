@@ -10,7 +10,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">What should I do if I wish to name a street or building/estate?</label>
     <div>
-      <p>You may submit an application to SBNB for approval.</p>
+      <p>You may [submit an application](https://digitalservice.ura.gov.sg/sbnb/) to SBNB for approval.</p>
     </div>
  </li>  
 	
