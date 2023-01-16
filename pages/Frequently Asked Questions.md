@@ -5,10 +5,6 @@ description: ""
 ---
 <h4>General Information</h4>
 
-<h4>Building/Estate Name Applications</h4>
-
-<h4>Street Name Applications</h4>
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -53,3 +49,7 @@ For existing buildings and streets, you may submit an application at any time.</
           </div>
   </li>
 </ul>
+
+<h4>Building/Estate Name Applications</h4>
+
+<h4>Street Name Applications</h4>
