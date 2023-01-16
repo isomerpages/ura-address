@@ -12,11 +12,12 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">What should I do if I wish to name a street or building/estate?</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>You may submit an application to SBNB for approval.</p>
     </div>
  </li>  
+	
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Multi-line Block</label>
