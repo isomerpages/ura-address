@@ -38,14 +38,11 @@ application on their behalf.
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
-    <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
-    </div>
+    <label for="accordion4">When can I apply for a street or building/estate name?</label>
+    <div>      
+        <p>For new streets and buildings, you may submit an application any time from the submission of a development application to URA.  
+For existing buildings and streets, you may submit an application at any time.</p>
+                </div>
   </li>
     
   <li>
