@@ -48,6 +48,23 @@ For existing buildings and streets, you may submit an application at any time.</
         <p>There is currently no processing fee to be paid.</p>
           </div>
   </li>
+	
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">What is the processing time for a street or building/estate name application?</label>
+    <div>
+        <p>The processing time is generally 4 to 6 weeks. Cases which require more deliberation may take longer time and the applicant  
+will be notified accordingly.</p>
+          </div>
+  </li>
+	
+	  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">How do I check on the status of my application?</label>
+    <div>
+        <p>TYou may check your application status at any time.</p>
+          </div>
+  </li>
 </ul>
 
 <h4>Street Name Applications</h4>
