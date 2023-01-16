@@ -50,23 +50,23 @@ For existing buildings and streets, you may submit an application at any time.</
   </li>
 	
   <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">What is the processing time for a street or building/estate name application?</label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">What is the processing time for a street or building/estate name application?</label>
     <div>
         <p>The processing time is generally 4 to 6 weeks. Cases which require more deliberation may take longer time and the applicant  
 will be notified accordingly.</p>
           </div>
   </li>
 	  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">How do I check on the status of my application?</label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">How do I check on the status of my application?</label>
     <div>
         <p>You may check your application status at any time.</p>
           </div>
   </li>
 		  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">How many names can I propose for a street or building/estate in an application?</label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">How many names can I propose for a street or building/estate in an application?</label>
     <div>
         <p>You may propose up to 3 names. You will need to rank the proposed names in order of your preference and provide supporting  
 reasons for each proposed name.</p>
@@ -74,15 +74,15 @@ reasons for each proposed name.</p>
   </li>
 	  </li>
 		  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Will there be a penalty imposed for changing a name after the SBNB has given approval?</label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">Will there be a penalty imposed for changing a name after the SBNB has given approval?</label>
     <div>
         <p>There is currently no penalty for changing a street or building/estate name after approval has been obtained.</p>
           </div>
   </li>
 			  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Which statute does the SBNB operate under?</label>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">Which statute does the SBNB operate under?</label>
     <div>
         <p>The SBNB operates under the Property Tax Act.</p>
           </div>
