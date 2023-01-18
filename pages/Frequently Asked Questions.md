@@ -72,7 +72,6 @@ will be notified accordingly.</p>
 reasons for each proposed name.</p>
           </div>
   </li>
-	  </li>
 		  <li>
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Will there be a penalty imposed for changing a name after the SBNB has given approval?</label>
