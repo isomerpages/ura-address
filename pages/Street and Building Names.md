@@ -31,6 +31,8 @@ A good name is one that:
   
 We encourage applicants to read through the naming principles and guidelines in the Handbooks below.
 
+![SBNB Handbooks](/images/SBNB%20Handbooks.png)
+
 <h4>Submission Requirements</h4>
   
 Before your submit application for naming of buildings / estates and streets, please read the submission requirements. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
