@@ -3,8 +3,7 @@ title: Street and Building Names
 permalink: /street-and-building-names/
 description: ""
 ---
-
-![](/images/Singapore%20Skyline.png)
+![Singapore Skyline Image](/images/Singapore%20Skyline%204k.png)
 
 <h4>The Role of the Street and Building Names Board</h4>
 
