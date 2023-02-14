@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Street and Building Names and House and Unit Numbers
+      title: Street & Building Names and House &Unit Numbers
       background: /images/Hero Image.png
       button: Submit an application
       url: https://digitalservice.ura.gov.sg/sbnb/
