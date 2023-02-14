@@ -29,6 +29,3 @@ sections:
       image: /images/Number Pic.png
       alt: House and Unit number picture
 ---
-
-
-
