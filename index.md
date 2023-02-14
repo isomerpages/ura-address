@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Property Names & Address
+      title: Property Names and Address
       background: /images/Hero Image.png
       button: Submit an application
       url: https://digitalservice.ura.gov.sg/sbnb/
