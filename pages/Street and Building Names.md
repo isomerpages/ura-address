@@ -33,7 +33,7 @@ A good name is one that:
   
 We encourage applicants to read through the naming principles and guidelines in the Handbooks below.
 
-![SBNB Handbooks](/images/SBNB%20Handbooks.png)
+![](/images/SBNB%20Handbooks%20small.png)
 
 <h4>Submission Requirements</h4>
   
