@@ -18,7 +18,7 @@ sections:
         physical attributes.
       button: Guidelines
       url: /street-and-building-names
-      image: /images/Singapore Skyline.png
+      image: /images/Singapore Skyline 4k.png
       alt: Singapore skyline picture
   - infopic:
       title: House and Unit Numbers
