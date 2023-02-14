@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Street & Buildling Names and House & Unit Numbers
-description: Street & Buidling Names and House & Unit Numbers
+description: Street & Buildling Names and House & Unit Numbers
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -29,4 +29,5 @@ sections:
       image: /images/Number Pic.png
       alt: House and Unit number picture
 ---
+
 
