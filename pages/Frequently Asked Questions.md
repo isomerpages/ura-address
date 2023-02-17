@@ -209,15 +209,13 @@ approved.</p>
         <p>You have to display the approved buiilding name in a conspicuous position on the building. Failure to do so is considered an offence under the Property Tax Act.</p>
           </div>
   </li>
-	
 				  <li>
     <input type="checkbox" id="accordion11">
     <label for="accordion11">Is estate naming (e.g. Sennett Estate) under the purview of the SBNB?</label>
     <div>
         <p>Yes, the naming of housing estates is under the purview of the SBNB.</p>
           </div>
-  </li>
-	
+  </li>	
 				  <li>
     <input type="checkbox" id="accordion12">
     <label for="accordion12">Is the block and house numbering under the purview of the SBNB?</label>
@@ -229,4 +227,3 @@ approved.</p>
 </ul>
 
 <h4>Street Name Applications</h4>
-
