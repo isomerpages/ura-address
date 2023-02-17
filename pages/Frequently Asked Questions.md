@@ -314,7 +314,7 @@ Any other documents to support your proposed names</p>
     <input type="checkbox" id="accordion31">
     <label for="accordion31">Where can the public provide feedback regarding public roads and directional signage?</label>
     <div>
-        <p>As public roads come under the purview of the Land Transport Authority (LTA), members of the public contact LTA directly on such matters, including issues regarding directional signage to guide the public. For suggestions on naming or re-naming of public roads, LTA will evaluate their merit before proposing the names to the SBNB for further consideration.</p>
+        <p>As public roads come under the purview of the Land Transport Authority (LTA), members of the public can contact LTA directly on such matters, including issues regarding directional signage to guide the public. For suggestions on naming or re-naming of public roads, LTA will evaluate their merit before proposing the names to the SBNB for further consideration.</p>
           </div>
   </li>
 		</ul>
