@@ -89,14 +89,144 @@ reasons for each proposed name.</p>
 	
 </ul>
 
-<h4>Street Name Applications</h4>
-
 <h4>Building/Estate Name Applications</h4>
 
-<div class="tab">
-						<input id="question-1-1" type="checkbox">
-						<label for="question-1-1" class="tab-label">Is the vaccine free?</label>
-						<div class="tab-content">
-							<p>The vaccine is free for all Singaporeans and long-term residents in Singapore, which includes Singapore Permanent Residents, and Employment Pass holders.</p>
-						</div>
-					</div>
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">What are the types of buildings/estates that require naming approval from the SBNB?</label>
+    <div>
+      <p>The following buildings/estates come under the purview of the SBNB and require naming approval:  
+  
+Residential buildings  
+Commercial buildings  
+Industrial buildings  
+Mixed-use developments (Definition: A development with 2 or more approved uses listed in this section)  
+Theme parks  
+Museums  
+Arts venues  
+Stadiums  
+Buildings used for community service / activity  
+Hospitals and healthcare facilities</p>
+    </div>
+ </li>  
+	
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">What are the types of buildings/estates that do not require naming approval from the SBNB?</label>
+    <div>
+      <p>The following building/estates do not come under the purview of SBNB and hence do not require approval from SBNB.  
+  
+Shophouse developments with less than 5 units  
+Residential developments with less than 5 units  
+Places of worship  
+Golf & Recreation clubs  
+Educational institutions (approval to be obtained from Ministry of Education)  
+Hotels (approval to be obtained from Hotel Licensing Board)  
+Sports and recreation facilities, except stadiums (approval to be obtained from Sport Singapore)</p>
+          </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">What are the key naming guidelines?</label>
+    <div>
+      <p>
+        We encourage applicants to read through the naming principles and guidelines in the Handbook on Guidelines for  
+Naming of Buildings and Estates. Some of the key guidelines are shown below:  
+  
+A good name  
+  
+Fits the location and environment of the development  
+Fits the size and type of the development  
+Avoids confusion with another development in another part of Singapore  
+Retains the history of the building or the area  
+Is reasonably short and easy to pronounce, spell and remember  
+Is unique  
+  
+Names to avoid  
+  
+Names that contain specific claims  
+Names which infringe on the trade names or trademarks of other parties  
+Names which may be deemed controversial or offensive  
+Names of persons, living or dead, unless for special reasons  
+Names of national institutions/symbols, public office and international organisations such as Singapore, National, Raffles,  
+Merlion, ASEAN, APEC or Temasek
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">What are the submission requirements for applying for an estate name?</label>
+    <div>      
+        <p>You will need to furnish:  
+  
+The proposed estate names and the reasons  
+Any other documents to support your proposed names</p>
+                </div>
+  </li>
+    
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Where can I find information on all existing building names in Singapore?</label>
+    <div>
+        <p>You can search for existing building names.</p>
+          </div>
+  </li>
+	
+  <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Can I submit the proposed building / estate name in both English and Chinese together?</label>
+    <div>
+        <p>Yes, you may do so. Alternatively, you may submit the Chinese name after the English building or estate name has been  
+approved.</p>
+          </div>
+  </li>
+	  <li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Can an existing building / estate name be changed or withdrawn?</label>
+    <div>
+        <p>Such applications will be considered only if there are merits to do so, such as a change in ownership or the anchor tenant.</p>
+          </div>
+  </li>
+		  <li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">Can a tenant of a building make an application to name the building?</label>
+    <div>
+        <p>A tenant can submit an application if consent from the building owner has been given.</p>
+          </div>
+  </li>
+		  <li>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">Can a tenant or licensee of a State Property apply for a building or estate name?</label>
+    <div>
+        <p>A tenant or licensee of a State Property has to enclose a letter of no objection from the Singapore Land Authority (SLA) on the proposed building or estate name when making the application.</p>
+          </div>
+  </li>
+			  <li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">Is it compulsory to display the approved building name on the building?</label>
+    <div>
+        <p>You have to display the approved buiilding name in a conspicuous position on the building. Failure to do so is considered an offence under the Property Tax Act.</p>
+          </div>
+  </li>
+	
+				  <li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">Is estate naming (e.g. Sennett Estate) under the purview of the SBNB?</label>
+    <div>
+        <p>Yes, the naming of housing estates is under the purview of the SBNB.</p>
+          </div>
+  </li>
+	
+				  <li>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">Is the block and house numbering under the purview of the SBNB?</label>
+    <div>
+        <p>Block and house numbering is under the purview of the Inland Revenue Authority of Singapore (IRAS).</p>
+          </div>
+  </li>
+	
+</ul>
+
+<h4>Street Name Applications</h4>
+
