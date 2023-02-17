@@ -17,7 +17,6 @@ Building owners and developers are required to submit naming applications to SBN
 
 Find out more about the history of street and building naming in this special Bicentennial publication Singapore Street, Building and Place Names.
 
-![SBNB Publication](/images/SBNB%20Publication.png)
 
 <h4>Street and Building Naming Guidelines</h4>
 
