@@ -227,3 +227,94 @@ approved.</p>
 </ul>
 
 <h4>Street Name Applications</h4>
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">What are the types of streets that require naming approval from SBNB?</label>
+    <div>
+      <p>All public streets, including flyovers, viaducts, underpasses, circuses, vehicular bridges, pedestrian malls and private roads  
+which are non-gated and freely accessible to the public and via public transport (e.g. roads within a university campus) come  
+under the purview of the SBNB and will require naming approval. However, if the road length is less than 60m, it need not be  
+named.</p>
+    </div>
+ </li>  
+	
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">What are the types of streets that do not require naming approval from SBNB?</label>
+    <div>
+      <p>Service roads, access roads, driveways and back lanes are not under the purview of the SBNB and hence, do not require  
+naming approval.</p>
+          </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">What are the key naming guidelines?</label>
+    <div>
+      <p>We encourage all applicants to read through the detailed naming principles and guidelines in the Handbook on Guidelines for Naming of Streets. Some of the key guidelines include:  
+  
+A good name  
+  
+Provides clear location or direction cues to locate properties and essential services quickly and efficiently  
+Reflects the physical attributes or design configuration of the streets  
+Avoids confusion with another street name or building / estate name in another part of Singapore  
+Retains the history of the area  
+Names should be kept reasonably short and easy to pronounce, spell and remember  
+  
+Names to avoid  
+  
+Names of any specific development where there are other developments located along the same street  
+Names of persons, companies, associations and communities  
+Names which may be deemed controversial or offensive</p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">What are the submission requirements for applying for a street name?</label>
+    <div>      
+        <p>You will need to furnish:  
+  
+The proposed street name and the supporting reasons.  
+Dimensions of street (length and width) and the road category of the street to be named  
+Any other documents to support your proposed names</p>
+                </div>
+  </li>
+    
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Where can I find information on all existing street names in Singapore?</label>
+    <div>
+        <p>You can search for existing street names.</p>
+          </div>
+  </li>
+	
+  <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Why can’t I apply for a Chinese name for streets?</label>
+    <div>
+        <p>Applications for street names are not available in Chinese. The SBNB will liaise with the Ministry of Communications and Information (MCI) to translate the street name into Chinese based on the approved English street names.</p>
+          </div>
+  </li>
+	  <li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Can an existing street name be changed or withdrawn?</label>
+    <div>
+        <p>Such applications will not be considered, especially if they affect numerous existing addresses as it would cause too much inconvenience to the residences and/or businesses along the road.</p>
+          </div>
+  </li>
+		  <li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">Upon obtaining the approval for the street name from the SBNB, will I be required to inform other government agencies?</label>
+    <div>
+        <p>No, SBNB will inform the relevant government agencies.</p>
+          </div>
+  </li>
+		  <li>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">Where can the public provide feedback regarding public roads and directional signage?</label>
+    <div>
+        <p>As public roads come under the purview of the Land Transport Authority (LTA), members of the public contact LTA directly on such matters, including issues regarding directional signage to guide the public. For suggestions on naming or re-naming of public roads, LTA will evaluate their merit before proposing the names to the SBNB for further consideration.</p>
+          </div>
+  </li>
+		</ul>
