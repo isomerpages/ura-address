@@ -217,7 +217,7 @@ approved.</p>
     <input type="checkbox" id="accordion20">
     <label for="accordion20">Is it compulsory to display the approved building name on the building?</label>
     <div>
-        <p>You have to display the approved buiilding name in a conspicuous position on the building. Failure to do so is considered an offence under the Property Tax Act.</p>
+        <p>You have to display the approved buiilding name in a conspicuous position on the building. Failure to do so is considered an offence under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p>
           </div>
   </li>
 				  <li>
