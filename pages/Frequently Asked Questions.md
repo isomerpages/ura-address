@@ -83,7 +83,7 @@ reasons for each proposed name.</p>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">Which statute does the SBNB operate under?</label>
     <div>
-        <p>The SBNB operates under the Property Tax Act.</p>
+        <p>The SBNB operates under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p>
           </div>
   </li>
 	
