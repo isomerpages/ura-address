@@ -61,7 +61,7 @@ will be notified accordingly.</p>
     <input type="checkbox" id="accordion7">
     <label for="accordion7">How do I check on the status of my application?</label>
     <div>
-        <p>You may check your application status at any time.</p>
+        <p>You may <a href = "https://digitalservice.ura.gov.sg/sbnb/checkApplication">check the status of your application</a> at any time.</p>
           </div>
   </li>
 		  <li>
