@@ -168,9 +168,11 @@ Naming of Buildings and Estates. Some of the key guidelines are shown below:
     <label for="accordion14">What are the submission requirements for applying for an estate name?</label>
     <div>      
         <p>You will need to furnish:  
-  
-The proposed estate names and the reasons  
-Any other documents to support your proposed names</p>
+<ol>  
+	<li>The proposed estate names and the reasons</li> 
+	<li>Any other documents to support your proposed names</li>
+			</ol>
+			</p>
                 </div>
   </li>
     
@@ -178,7 +180,7 @@ Any other documents to support your proposed names</p>
     <input type="checkbox" id="accordion15">
     <label for="accordion15">Where can I find information on all existing building names in Singapore?</label>
     <div>
-        <p>You can search for existing building names.</p>
+        <p>You can <a href = "https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing building names.</a></p>
           </div>
   </li>
 	
