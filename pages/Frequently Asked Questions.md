@@ -102,13 +102,13 @@ reasons for each proposed name.</p>
 <li> Residential buildings</li>
 <li> Commercial buildings</li>
 <li> Industrial buildings</li>
-<li> Mixed-use developments (Definition: A development with 2 or more approved uses listed in this section)</li>
 	<li> Theme parks  </li>
 	<li> Museums  </li>
 	<li> Arts venues  </li>
 	<li> Stadiums  </li>
 	<li>Buildings used for community service / activity  </li>
 	<li> Hospitals and healthcare facilities</li>
+	<li> Mixed-use developments (Definition: A development with 2 or more approved uses listed in this section)</li>
 </ul> 
 </p>
     </div>
