@@ -265,20 +265,23 @@ naming approval.</p>
     <div>
       <p>We encourage all applicants to read through the detailed naming principles and guidelines in the <a href = "https://www.ura.gov.sg/Corporate/Guidelines/-/media/63EF655B94214D9189126CE3AF94A380.ashx">Handbook on Guidelines for Naming of Streets.</a> Some of the key guidelines include:  
   
-A good name  
+<b>A good name</b>
   
-Provides clear location or direction cues to locate properties and essential services quickly and efficiently  
-Reflects the physical attributes or design configuration of the streets  
-Avoids confusion with another street name or building / estate name in another part of Singapore  
-Retains the history of the area  
-Names should be kept reasonably short and easy to pronounce, spell and remember  
-  
-Names to avoid  
-  
-Names of any specific development where there are other developments located along the same street  
-Names of persons, companies, associations and communities  
-Names which may be deemed controversial or offensive</p>
-    </div>
+<ol>
+	<li>Provides clear location or direction cues to locate properties and essential services quickly and efficiently</li>
+<li>Reflects the physical attributes or design configuration of the streets</li>  
+<li>Avoids confusion with another street name or building / estate name in another part of Singapore</li>  
+<li>Retains the history of the area</li>  
+<li>Names should be kept reasonably short and easy to pronounce, spell and remember</li>  
+</ol>
+			
+<b>Names to avoid</b>  
+  <ol>
+<li>Names of any specific development where there are other developments located along the same street</li>  
+<li>Names of persons, companies, associations and communities</li>   
+<li>Names which may be deemed controversial or offensive</li></ol></p>
+			
+  </div>
   </li>
   <li>
     <input type="checkbox" id="accordion26">
