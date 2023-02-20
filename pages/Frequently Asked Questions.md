@@ -300,7 +300,7 @@ naming approval.</p>
     <input type="checkbox" id="accordion27">
     <label for="accordion27">Where can I find information on all existing street names in Singapore?</label>
     <div>
-        <p>You can search for existing street names.</p>
+        <p>You can <a href = "https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing street names.</a></p>
           </div>
   </li>
 	
