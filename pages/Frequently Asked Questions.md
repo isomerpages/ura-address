@@ -120,7 +120,7 @@ reasons for each proposed name.</p>
     <div>
       <p>The following building/estates do not come under the purview of SBNB and hence do not require approval from SBNB.  
  
-				<ul>  
+<ul>  
 <li> Shophouse developments with less than 5 units  </li>
 <li> Residential developments with less than 5 units  </li>
 <li> Places of worship  </li>
