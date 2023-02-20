@@ -140,16 +140,17 @@ reasons for each proposed name.</p>
         We encourage applicants to read through the naming principles and guidelines in the Handbook on Guidelines for  
 Naming of Buildings and Estates. Some of the key guidelines are shown below:  
   
-A good name  
+<b>A good name</b>  
+ 
+<ol>
+<li>Fits the location and environment of the development</li>
+<li>Fits the size and type of the development</li>  
+<li>Avoids confusion with another development in another part of Singapore</li>  
+<li>Retains the history of the building or the area</li>  
+<li>Is reasonably short and easy to pronounce, spell and remember</li>  
+<li>Is unique</li>  
   
-Fits the location and environment of the development  
-Fits the size and type of the development  
-Avoids confusion with another development in another part of Singapore  
-Retains the history of the building or the area  
-Is reasonably short and easy to pronounce, spell and remember  
-Is unique  
-  
-Names to avoid  
+<b>Names to avoid</b>
   
 Names that contain specific claims  
 Names which infringe on the trade names or trademarks of other parties  
