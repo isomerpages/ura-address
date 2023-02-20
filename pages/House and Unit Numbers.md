@@ -3,7 +3,7 @@ title: House and Unit Numbers
 permalink: /house-and-unit-numbers/
 description: ""
 ---
-![House & Unit Pic](/images/House%20Unit%20Pic%202.png)
+![Houaw & Unit Number Pic](/images/House%20&%20Unit%20Pic%204k.png)
 
 <h4>The Purpose of House and Unit Numbers</h4>
 
