@@ -288,10 +288,11 @@ naming approval.</p>
     <label for="accordion26">What are the submission requirements for applying for a street name?</label>
     <div>      
         <p>You will need to furnish:  
-  
-The proposed street name and the supporting reasons.  
-Dimensions of street (length and width) and the road category of the street to be named  
-Any other documents to support your proposed names</p>
+ <ol> 
+<li>The proposed street name and the supporting reasons.</li>  
+<li>Dimensions of street (length and width) and the road category of the street to be named</li>  
+	 <li>Any other documents to support your proposed names</li>
+			</ol></p>
                 </div>
   </li>
     
