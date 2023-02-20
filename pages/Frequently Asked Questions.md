@@ -137,8 +137,8 @@ reasons for each proposed name.</p>
     <label for="accordion13">What are the key naming guidelines?</label>
     <div>
       <p>
-        We encourage applicants to read through the naming principles and guidelines in the Handbook on Guidelines for  
-Naming of Buildings and Estates. Some of the key guidelines are shown below:  
+        We encourage applicants to read through the naming principles and guidelines in the <a href = "https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx">Handbook on Guidelines for  
+Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:  
   
 <b>A good name</b>  
  
