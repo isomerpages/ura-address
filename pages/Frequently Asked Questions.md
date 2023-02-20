@@ -149,15 +149,17 @@ Naming of Buildings and Estates. Some of the key guidelines are shown below:
 <li>Retains the history of the building or the area</li>  
 <li>Is reasonably short and easy to pronounce, spell and remember</li>  
 <li>Is unique</li>  
-  
+ </ol>
+	
 <b>Names to avoid</b>
-  
-Names that contain specific claims  
-Names which infringe on the trade names or trademarks of other parties  
-Names which may be deemed controversial or offensive  
-Names of persons, living or dead, unless for special reasons  
-Names of national institutions/symbols, public office and international organisations such as Singapore, National, Raffles,  
-Merlion, ASEAN, APEC or Temasek
+ 
+<ol>
+<li>Names that contain specific claims</li>  
+<li>Names which infringe on the trade names or trademarks of other parties</li> 
+<li>Names which may be deemed controversial or offensive</li>  
+<li>Names of persons, living or dead, unless for special reasons</li>  
+<li>Names of national institutions/symbols, public office and international organisations such as Singapore, National, Raffles, Merlion, ASEAN, APEC or Temasek</li>
+			</ol>
       </p>
     </div>
   </li>
