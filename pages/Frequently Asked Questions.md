@@ -263,7 +263,7 @@ naming approval.</p>
     <input type="checkbox" id="accordion25">
     <label for="accordion25">What are the key naming guidelines?</label>
     <div>
-      <p>We encourage all applicants to read through the detailed naming principles and guidelines in the Handbook on Guidelines for Naming of Streets. Some of the key guidelines include:  
+      <p>We encourage all applicants to read through the detailed naming principles and guidelines in the <a href = "https://www.ura.gov.sg/Corporate/Guidelines/-/media/63EF655B94214D9189126CE3AF94A380.ashx">Handbook on Guidelines for Naming of Streets.</a> Some of the key guidelines include:  
   
 A good name  
   
