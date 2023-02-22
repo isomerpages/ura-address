@@ -9,6 +9,8 @@ description: ""
 
 Properties have to be numbered for identification purposes. The allotted number in combination with the name of the street at which it is located, forms a unique address.
 
+A house address comprises:<br>[House Number] [Street Name] [# Unit Number, if any] Singapore [Postal Code]
+
 <h4>Guidelines for House Numbers</h4>
 
 <p>This refers to the unique number assigned to a building or development along a road.  
