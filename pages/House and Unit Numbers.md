@@ -19,7 +19,7 @@ A house address comprises:<br>[House Number] [Street Name] [# Unit Number, if an
 	<li>Order and Sequence</li>
 	</ol>
 The numbering of buildings is in ascending order, with odd numbers on the left side of the road and even numbers on the right side. The numbers will be in sequential order and omission of any numbers is not allowed. In situations where there are insufficient numeric numbers, alphabetical suffixes starting from A, B, C, etc. may be assigned to the numbers. The alphabets “I” and “O” are not allowed to avoid confusion.  
-  
+<br>
 b. Frontage/ Main Entrance  
 As a general rule, developments will be allotted a house number in sequence along the street where the main entrance is located.</p>
 
