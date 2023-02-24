@@ -48,9 +48,9 @@ description: ""
 	
 <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">When can I use the house/unit number?</label>
+    <label for="accordion6">Do I need to inform IRAS when a house/unit number is no longer required?</label>
     <div>
-      <p>Upon the issuance of the Certificate of Numbering, the address allotted can be used.</p>
+      <p>The owner or developer is required to inform IRAS on the withdrawal of number when a house/unit number is no longer required. In situations when a building has been demolished, the house number becomes invalid and should therefore be withdrawn. To notify IRAS on the withdrawal of number, email us at housenumber@iras.gov.sg.</p>
           </div>
 </li>
 	
