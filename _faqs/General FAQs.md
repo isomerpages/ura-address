@@ -3,6 +3,8 @@ title: General FAQs
 permalink: /faq/general/
 description: ""
 ---
+<h4>General FAQs</h4>
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
