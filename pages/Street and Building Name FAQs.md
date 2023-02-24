@@ -186,9 +186,42 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
       <p>Yes, you may do so. Alternatively, you may submit the Chinese name after the English building or estate name has been approved.</p>
           </div>
 </li>
+
 <li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7">Can an existing building / estate name be changed or withdrawn?</label>
+    <div>
+      <p>Such applications will be considered only if there are merits to do so, such as a change in ownership or the anchor tenant.</p>
+          </div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">Can a tenant of a building make an application to name the building?</label>
+    <div>
+      <p>A tenant can submit an application if consent from the building owner has been given.</p>
+          </div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">Can a tenant or licensee of a State Property apply for a building or estate name?</label>
+    <div>
+      <p>A tenant or licensee of a State Property has to enclose a letter of no objection from the Singapore Land Authority (SLA) on the proposed building or estate name when making the application.</p>
+          </div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">Is it compulsory to display the approved building name on the building?</label>
+    <div>
+      <p>You have to display the approved building name in a conspicuous position on the building. Failure to do so is considered an offence under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p>
+          </div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">Can an existing building / estate name be changed or withdrawn?</label>
     <div>
       <p>Such applications will be considered only if there are merits to do so, such as a change in ownership or the anchor tenant.</p>
           </div>
