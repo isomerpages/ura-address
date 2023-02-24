@@ -3,7 +3,7 @@ title: Street and Building Name FAQs
 permalink: /faq/sbnb-faqs/
 description: ""
 ---
-<h4>General Application Information</h4>
+<h4>General Information</h4>
 
 <ul class="jekyllcodex_accordion">
 <li>
@@ -23,7 +23,7 @@ description: ""
 </li>
 </ul>
 
-<h4>Building and Estate Name Applications</h4>
+<h4>Building and Estate Names</h4>
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -174,7 +174,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
 	
 </ul>
 
-<h4>Street Name Applications</h4>
+<h4>Street Names</h4>
 
 <ul class="jekyllcodex_accordion">
   <li>
