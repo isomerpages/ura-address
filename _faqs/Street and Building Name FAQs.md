@@ -5,6 +5,7 @@ description: ""
 ---
 <h4>General Street and Building Name Information</h4>
 
+<ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion8">
     <label for="accordion8">How many names can I propose for a street, building or estate in an application?</label>
