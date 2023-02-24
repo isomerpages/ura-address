@@ -98,11 +98,12 @@ The property owner is required to display the house/unit number at a conspicuous
 
 The number shall be marked or displayed in the following manner as provided for in the subsidiary legislation of the Property Tax Act:
 
-  In the case of a unit in a building - on the outside surface of the front door, or immediately adjacent to it, or in such other position as to be clearly visible from the entrance lobby or corridor on the same floor.
-  In the case of a house, building or other property - on the outside surface of the front door or front wall of such house or building or at the entrance of the enclosure of the property in such a position as to be clearly visible from the road in which the property is situated.
-  The numerals or lettering used shall be -
-  of such colour as to contrast with the background against which they are marked or displayed;
-  of sufficient size as to render them clearly discernible from a distance of 10 metres; and
-  of durable, non-absorbent material, which expression shall be deemed to include paint.
-  Where a number is to be marked or displayed on the outside surface of the front wall of a building, it shall be between 1.5 metres and six metres above the level of the ground. In all other cases it shall be between one metre and 2.5 metres above the level of the ground.
-  Only Arabic numerals and Roman letters of the alphabet shall be used. Please refer to  Property Tax (Property Numbers) regulations (PDF, 64.9KB) on the subsidiary legislation on display of house and unit numbers.
+1. In the case of a unit in a building - on the outside surface of the front door, or immediately adjacent to it, or in such other position as to be clearly visible from the entrance lobby or corridor on the same floor.
+2. In the case of a house, building or other property - on the outside surface of the front door or front wall of such house or building or at the entrance of the enclosure of the property in such a position as to be clearly visible from the road in which the property is situated.
+3.   The numerals or lettering used shall be -
+*   of such colour as to contrast with the background against which they are marked or displayed;
+*   of sufficient size as to render them clearly discernible from a distance of 10 metres; and
+*   of durable, non-absorbent material, which expression shall be deemed to include paint.
+
+4. Where a number is to be marked or displayed on the outside surface of the front wall of a building, it shall be between 1.5 metres and six metres above the level of the ground. In all other cases it shall be between one metre and 2.5 metres above the level of the ground.
+5. Only Arabic numerals and Roman letters of the alphabet shall be used. Please refer to  Property Tax (Property Numbers) regulations (PDF, 64.9KB) on the subsidiary legislation on display of house and unit numbers.
