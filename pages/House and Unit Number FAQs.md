@@ -8,7 +8,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Why do I need to apply for a house / unit number?</label>
+    <label for="accordion1">Why do I need to apply for a house/unit number?</label>
     <div>
       <p>Properties have to be numbered for identification purposes. This is to ensure that each property is allotted with a unique address and there is no duplication of address that is already in existence.</p>
           </div>
@@ -27,6 +27,30 @@ description: ""
     <label for="accordion3">When can I submit the application?</label>
     <div>
       <p>House/unit number application should preferably be submitted to IRAS immediately after the development application to the Grant of Written Permission is submitted to URA. Generally, it takes about 4 weeks to process your application upon receipt of complete information.</p>
+          </div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Is there a processing fee for the application?</label>
+    <div>
+      <p>There is currently no processing fee to be paid.</p>
+          </div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">When can I use the house/unit number?</label>
+    <div>
+      <p>Upon the issuance of the Certificate of Numbering, the address allotted can be used.</p>
+          </div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">When can I use the house/unit number?</label>
+    <div>
+      <p>Upon the issuance of the Certificate of Numbering, the address allotted can be used.</p>
           </div>
 </li>
 	
