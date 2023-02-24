@@ -90,8 +90,8 @@ will be notified accordingly.</p>
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">What are the types of buildings/estates that require naming approval from the SBNB?</label>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">What are the types of buildings/estates that require naming approval from the SBNB?</label>
     <div>
       <p>The following buildings/estates come under the purview of the SBNB and require naming approval:  
   
@@ -111,8 +111,8 @@ will be notified accordingly.</p>
   </li>
 	
 <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">What are the types of buildings/estates that do not require naming approval from the SBNB?</label>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">What are the types of buildings/estates that do not require naming approval from the SBNB?</label>
     <div>
       <p>The following building/estates do not come under the purview of SBNB and hence do not require approval from SBNB.  
  
@@ -129,8 +129,8 @@ will be notified accordingly.</p>
 </li>
 	
 <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">What are the key naming guidelines?</label>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13">What are the key naming guidelines?</label>
     <div>
       <p>We encourage applicants to read through the naming principles and guidelines in the <a href = "https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx">Handbook on Guidelines for  
 Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:  
@@ -160,8 +160,8 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
 </li>
 	
 <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">What are the submission requirements for applying for an estate name?</label>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14">What are the submission requirements for applying for an estate name?</label>
     <div>
       <p>You will need to furnish:  
 <ol>  
@@ -172,215 +172,68 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
 </li>
 	
 <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Where can I find information on all existing building names in Singapore?</label>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15">Where can I find information on all existing building names in Singapore?</label>
     <div>
       <p>You can <a href = "https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing building names.</a></p>
           </div>
 </li>
 	
 <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Can I submit the proposed building / estate name in both English and Chinese together?</label>
+    <input type="checkbox" id="accordion16">
+    <label for="accordion16">Can I submit the proposed building / estate name in both English and Chinese together?</label>
     <div>
       <p>Yes, you may do so. Alternatively, you may submit the Chinese name after the English building or estate name has been approved.</p>
           </div>
 </li>
 
 <li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">Can an existing building / estate name be changed or withdrawn?</label>
+    <input type="checkbox" id="accordion17">
+    <label for="accordion17">Can an existing building / estate name be changed or withdrawn?</label>
     <div>
       <p>Such applications will be considered only if there are merits to do so, such as a change in ownership or the anchor tenant.</p>
           </div>
 </li>
 
 <li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">Can a tenant of a building make an application to name the building?</label>
+    <input type="checkbox" id="accordion18">
+    <label for="accordion18">Can a tenant of a building make an application to name the building?</label>
     <div>
       <p>A tenant can submit an application if consent from the building owner has been given.</p>
           </div>
 </li>
 
 <li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9">Can a tenant or licensee of a State Property apply for a building or estate name?</label>
+    <input type="checkbox" id="accordion19">
+    <label for="accordion19">Can a tenant or licensee of a State Property apply for a building or estate name?</label>
     <div>
       <p>A tenant or licensee of a State Property has to enclose a letter of no objection from the Singapore Land Authority (SLA) on the proposed building or estate name when making the application.</p>
           </div>
 </li>
 
 <li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10">Is it compulsory to display the approved building name on the building?</label>
+    <input type="checkbox" id="accordion20">
+    <label for="accordion20">Is it compulsory to display the approved building name on the building?</label>
     <div>
       <p>You have to display the approved building name in a conspicuous position on the building. Failure to do so is considered an offence under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p>
           </div>
 </li>
 
 <li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11">Is estate naming (e.g. Sennett Estate) under the purview of the SBNB?</label>
+    <input type="checkbox" id="accordion21">
+    <label for="accordion21">Is estate naming (e.g. Sennett Estate) under the purview of the SBNB?</label>
     <div>
       <p>Yes, the naming of housing estates is under the purview of the SBNB.</p>
           </div>
 </li>
 
 <li>
-    <input type="checkbox" id="accordion12">
-    <label for="accordion12">Is the block and house numbering under the purview of the SBNB?</label>
+    <input type="checkbox" id="accordion22">
+    <label for="accordion22">Is the block and house numbering under the purview of the SBNB?</label>
     <div>
       <p>Block and house numbering is under the purview of the Inland Revenue Authority of Singapore (IRAS).</p>
           </div>
 </li>
-	
-</ul>
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11">What are the types of buildings/estates that require naming approval from the SBNB?</label>
-    <div>
-      <p>The following buildings/estates come under the purview of the SBNB and require naming approval:  
-  
-<ul>  
-<li> Residential buildings</li>
-<li> Commercial buildings</li>
-<li> Industrial buildings</li>
-	<li> Theme parks  </li>
-	<li> Museums  </li>
-	<li> Arts venues  </li>
-	<li> Stadiums  </li>
-	<li>Buildings used for community service / activity  </li>
-	<li> Hospitals and healthcare facilities</li>
-	<li> Mixed-use developments (Definition: A development with 2 or more approved uses listed in this section)</li>
-</ul> 
-</p>
-    </div>
- </li>  
-	
-  <li>
-    <input type="checkbox" id="accordion12">
-    <label for="accordion12">What are the types of buildings/estates that do not require naming approval from the SBNB?</label>
-    <div>
-      <p>The following building/estates do not come under the purview of SBNB and hence do not require approval from SBNB.  
- 
-<ul>  
-<li> Shophouse developments with less than 5 units  </li>
-<li> Residential developments with less than 5 units  </li>
-<li> Places of worship  </li>
-<li> Golf & Recreation clubs </li>
-	<li> Educational institutions (approval to be obtained from Ministry of Education)    </li>
-	<li> Hotels (approval to be obtained from Hotel Licensing Board)   </li>
-	<li> Sports and recreation facilities, except stadiums (approval to be obtained from Sport Singapore)  </li>
-</ul>  
-</p>
-          </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion13">
-    <label for="accordion13">What are the key naming guidelines?</label>
-    <div>
-      <p>
-        We encourage applicants to read through the naming principles and guidelines in the <a href = "https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx">Handbook on Guidelines for  
-Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:  
-				<br>
-				<br>
-<b>A good name</b>  
- 
-<ol>
-<li>Fits the location and environment of the development</li>
-<li>Fits the size and type of the development</li>  
-<li>Avoids confusion with another development in another part of Singapore</li>  
-<li>Retains the history of the building or the area</li>  
-<li>Is reasonably short and easy to pronounce, spell and remember</li>  
-<li>Is unique</li>  
- </ol>
-	
-<b>Names to avoid</b>
- 
-<ol>
-<li>Names that contain specific claims</li>  
-<li>Names which infringe on the trade names or trademarks of other parties</li> 
-<li>Names which may be deemed controversial or offensive</li>  
-<li>Names of persons, living or dead, unless for special reasons</li>  
-<li>Names of national institutions/symbols, public office and international organisations such as Singapore, National, Raffles, Merlion, ASEAN, APEC or Temasek</li>
-			</ol>
-      </p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion14">
-    <label for="accordion14">What are the submission requirements for applying for an estate name?</label>
-    <div>      
-        <p>You will need to furnish:  
-<ol>  
-	<li>The proposed estate names and the reasons</li> 
-	<li>Any other documents to support your proposed names</li>
-			</ol>
-			</p>
-                </div>
-  </li>
-    
-  <li>
-    <input type="checkbox" id="accordion15">
-    <label for="accordion15">Where can I find information on all existing building names in Singapore?</label>
-    <div>
-        <p>You can <a href = "https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing building names.</a></p>
-          </div>
-  </li>
-	
-  <li>
-    <input type="checkbox" id="accordion16">
-    <label for="accordion16">Can I submit the proposed building / estate name in both English and Chinese together?</label>
-    <div>
-        <p>Yes, you may do so. Alternatively, you may submit the Chinese name after the English building or estate name has been  
-approved.</p>
-          </div>
-  </li>
-	  <li>
-    <input type="checkbox" id="accordion17">
-    <label for="accordion17">Can an existing building / estate name be changed or withdrawn?</label>
-    <div>
-        <p>Such applications will be considered only if there are merits to do so, such as a change in ownership or the anchor tenant.</p>
-          </div>
-  </li>
-		  <li>
-    <input type="checkbox" id="accordion18">
-    <label for="accordion18">Can a tenant of a building make an application to name the building?</label>
-    <div>
-        <p>A tenant can submit an application if consent from the building owner has been given.</p>
-          </div>
-  </li>
-		  <li>
-    <input type="checkbox" id="accordion19">
-    <label for="accordion19">Can a tenant or licensee of a State Property apply for a building or estate name?</label>
-    <div>
-        <p>A tenant or licensee of a State Property has to enclose a letter of no objection from the Singapore Land Authority (SLA) on the proposed building or estate name when making the application.</p>
-          </div>
-  </li>
-			  <li>
-    <input type="checkbox" id="accordion20">
-    <label for="accordion20">Is it compulsory to display the approved building name on the building?</label>
-    <div>
-        <p>You have to display the approved buiilding name in a conspicuous position on the building. Failure to do so is considered an offence under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p>
-          </div>
-  </li>
-				  <li>
-    <input type="checkbox" id="accordion21">
-    <label for="accordion21">Is estate naming (e.g. Sennett Estate) under the purview of the SBNB?</label>
-    <div>
-        <p>Yes, the naming of housing estates is under the purview of the SBNB.</p>
-          </div>
-  </li>	
-				  <li>
-    <input type="checkbox" id="accordion22">
-    <label for="accordion22">Is the block and house numbering under the purview of the SBNB?</label>
-    <div>
-        <p>Block and house numbering is under the purview of the Inland Revenue Authority of Singapore (IRAS).</p>
-          </div>
-  </li>
 	
 </ul>
 
