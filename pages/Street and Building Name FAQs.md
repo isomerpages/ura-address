@@ -6,6 +6,59 @@ description: ""
 <h4>General Information</h4>
 
 <ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion32">
+    <label for="accordion32">What should I do if I wish to name a street or building/estate?</label>
+    <div>
+      <p>You may <a href = "https://digitalservice.ura.gov.sg/sbnb/">submit an application</a> to SBNB for approval.</p>
+          </div>
+  </li>
+	
+<li>
+    <input type="checkbox" id="accordion33">
+    <label for="accordion33">Why do I need to apply for a street or building/estate name?</label>
+    <div>
+      <p>The purpose of applications is to ensure that names are appropriate in the context of the location and the physical attributes of the streets and buildings/estates. It is also to ensure that there are no duplicate names.</p>
+          </div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion34">
+    <label for="accordion34">Who can name a street or building/estate?</label>
+    <div>
+      <p>Only the owner can name the building/estate. The owner may appoint a representative (e.g. architect) to submit the naming  
+application on their behalf.</p>
+          </div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion35">
+    <label for="accordion35">When can I apply for a street or building/estate name?</label>
+    <div>
+      <p>For new streets and buildings, you may submit an application any time from the submission of a development application to URA. For existing buildings and streets, you may submit an application at any time.</p>
+          </div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion36">
+    <label for="accordion36">Is there a processing fee to be paid?</label>
+    <div>
+      <p>There is currently no processing fee to be paid.</p>
+          </div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion37">
+    <label for="accordion37">What is the processing time for a street or building/estate name application?</label>
+    <div>
+      <p>The processing time is generally 4 to 6 weeks. Cases which require more deliberation may take longer time and the applicant  
+will be notified accordingly.</p>
+          </div>
+</li>
+	
+</ul>
+
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">What should I do if I wish to name a street or building/estate?</label>
