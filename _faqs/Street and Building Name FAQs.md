@@ -7,7 +7,7 @@ description: ""
 
 <li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8">How many names can I propose for a street or building/estate in an application?</label>
+    <label for="accordion8">How many names can I propose for a street, building or estate in an application?</label>
     <div>
       <p>You may propose up to 3 names. You will need to rank the proposed names in order of your preference and provide supporting reasons for each proposed name.</p>
           </div>
@@ -17,15 +17,10 @@ description: ""
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Will there be a penalty imposed for changing a name after the SBNB has given approval?</label>
     <div>
-      <p>There is currently no penalty for changing a street, building or estate name after approval has been obtained.</p>
+      <p>There is no penalty for changing a street, building or estate name after approval has been obtained.</p>
           </div>
 </li>
-	
-<li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10">Which statute does the SBNB operate under?</label>
-    <div>
-      <p>The SBNB operates under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p></div></li></ul>
+</ul>
 
 <h4>Building and Estate Name Applications</h4>
 
