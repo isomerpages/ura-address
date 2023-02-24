@@ -130,33 +130,67 @@ will be notified accordingly.</p>
 	
 <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">When can I submit the application?</label>
+    <label for="accordion3">What are the key naming guidelines?</label>
     <div>
-      <p>House/unit number application should preferably be submitted to IRAS immediately after the development application to the Grant of Written Permission is submitted to URA. Generally, it takes about 4 weeks to process your application upon receipt of complete information.</p>
+      <p>We encourage applicants to read through the naming principles and guidelines in the <a href = "https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx">Handbook on Guidelines for  
+Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:  
+				<br>
+				<br>
+<b>A good name</b>  
+ 
+<ol>
+<li>Fits the location and environment of the development</li>
+<li>Fits the size and type of the development</li>  
+<li>Avoids confusion with another development in another part of Singapore</li>  
+<li>Retains the history of the building or the area</li>  
+<li>Is reasonably short and easy to pronounce, spell and remember</li>  
+<li>Is unique</li>  
+ </ol>
+	
+<b>Names to avoid</b>
+ 
+<ol>
+<li>Names that contain specific claims</li>  
+<li>Names which infringe on the trade names or trademarks of other parties</li> 
+<li>Names which may be deemed controversial or offensive</li>  
+<li>Names of persons, living or dead, unless for special reasons</li>  
+<li>Names of national institutions/symbols, public office and international organisations such as Singapore, National, Raffles, Merlion, ASEAN, APEC or Temasek</li>
+			</ol></p>
           </div>
 </li>
 	
 <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Is there a processing fee for the application?</label>
+    <label for="accordion4">What are the submission requirements for applying for an estate name?</label>
     <div>
-      <p>There is currently no processing fee to be paid.</p>
+      <p>You will need to furnish:  
+<ol>  
+	<li>The proposed estate names and the reasons</li> 
+	<li>Any other documents to support your proposed names</li>
+			</ol></p>
           </div>
 </li>
 	
 <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">When can I use the house/unit number?</label>
+    <label for="accordion5">Where can I find information on all existing building names in Singapore?</label>
     <div>
-      <p>Upon the issuance of the Certificate of Numbering, the address allotted can be used.</p>
+      <p>You can <a href = "https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing building names.</a></p>
           </div>
 </li>
 	
 <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">Do I need to inform IRAS when a house/unit number is no longer required?</label>
+    <label for="accordion6">Can I submit the proposed building / estate name in both English and Chinese together?</label>
     <div>
-      <p>The owner or developer is required to inform IRAS on the withdrawal of number when a house/unit number is no longer required. In situations when a building has been demolished, the house number becomes invalid and should therefore be withdrawn. To notify IRAS on the withdrawal of number, email us at housenumber@iras.gov.sg.</p>
+      <p>Yes, you may do so. Alternatively, you may submit the Chinese name after the English building or estate name has been approved.</p>
+          </div>
+</li>
+<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Can an existing building / estate name be changed or withdrawn?</label>
+    <div>
+      <p>Such applications will be considered only if there are merits to do so, such as a change in ownership or the anchor tenant.</p>
           </div>
 </li>
 	
