@@ -56,6 +56,38 @@ will be notified accordingly.</p>
           </div>
 </li>
 	
+<li>
+    <input type="checkbox" id="accordion38">
+    <label for="accordion38">How do I check on the status of my application?</label>
+    <div>
+      <p>You may <a href = "https://digitalservice.ura.gov.sg/sbnb/checkApplication">check the status of your application</a> at any time.</p>
+          </div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion39">
+    <label for="accordion39">How many names can I propose for a street or building/estate in an application?</label>
+    <div>
+      <p>You may propose up to 3 names. You will need to rank the proposed names in order of your preference and provide supporting reasons for each proposed name.</p>
+          </div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion40">
+    <label for="accordion40">Will there be a penalty imposed for changing a name after the SBNB has given approval?</label>
+    <div>
+      <p>There is currently no penalty for changing a street or building/estate name after approval has been obtained.</p>
+          </div>
+</li>
+	
+<li>
+    <input type="checkbox" id="accordion41">
+    <label for="accordion41">Which statute does the SBNB operate under?</label>
+    <div>
+      <p>The SBNB operates under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</p>
+          </div>
+</li>
+	
 </ul>
 
 <ul class="jekyllcodex_accordion">
