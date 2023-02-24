@@ -239,26 +239,23 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
 <h4>Street Name Applications</h4>
 
 <ul class="jekyllcodex_accordion">
-  <li>
+  <li>
     <input type="checkbox" id="accordion23">
     <label for="accordion23">What are the types of streets that require naming approval from SBNB?</label>
     <div>
-      <p>All public streets, including flyovers, viaducts, underpasses, circuses, vehicular bridges, pedestrian malls and private roads  
-which are non-gated and freely accessible to the public and via public transport (e.g. roads within a university campus) come  
-under the purview of the SBNB and will require naming approval. However, if the road length is less than 60m, it need not be  
-named.</p>
-    </div>
- </li>  
+      <p>All public streets, including flyovers, viaducts, underpasses, circuses, vehicular bridges, pedestrian malls and private roads which are non-gated and freely accessible to the public and via public transport (e.g. roads within a university campus) come under the purview of the SBNB and will require naming approval. However, if the road length is less than 60m, it need not be named.</p>
+          </div>
+  </li>
 	
-  <li>
+<li>
     <input type="checkbox" id="accordion24">
     <label for="accordion24">What are the types of streets that do not require naming approval from SBNB?</label>
     <div>
-      <p>Service roads, access roads, driveways and back lanes are not under the purview of the SBNB and hence, do not require  
-naming approval.</p>
+      <p>Service roads, access roads, driveways and back lanes are not under the purview of the SBNB and hence, do not require naming approval.</p>
           </div>
-  </li>
-  <li>
+</li>
+	
+<li>
     <input type="checkbox" id="accordion25">
     <label for="accordion25">What are the key naming guidelines?</label>
     <div>
@@ -280,56 +277,59 @@ naming approval.</p>
 <li>Names of any specific development where there are other developments located along the same street</li>  
 <li>Names of persons, companies, associations and communities</li>   
 <li>Names which may be deemed controversial or offensive</li></ol></p>
-			
-  </div>
-  </li>
-  <li>
+          </div>
+</li>
+	
+<li>
     <input type="checkbox" id="accordion26">
     <label for="accordion26">What are the submission requirements for applying for a street name?</label>
-    <div>      
-        <p>You will need to furnish:  
+    <div>
+      <p>ou will need to furnish:  
  <ol> 
 <li>The proposed street name and the supporting reasons.</li>  
 <li>Dimensions of street (length and width) and the road category of the street to be named</li>  
 	 <li>Any other documents to support your proposed names</li>
 			</ol></p>
-                </div>
-  </li>
-    
-  <li>
+          </div>
+</li>
+	
+<li>
     <input type="checkbox" id="accordion27">
     <label for="accordion27">Where can I find information on all existing street names in Singapore?</label>
     <div>
-        <p>You can <a href = "https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing street names.</a></p>
+      <p>You can <a href = "https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing street names.</a></p>
           </div>
-  </li>
+</li>
 	
-  <li>
+<li>
     <input type="checkbox" id="accordion28">
     <label for="accordion28">Why can’t I apply for a Chinese name for streets?</label>
     <div>
-        <p>Applications for street names are not available in Chinese. The SBNB will liaise with the Ministry of Communications and Information (MCI) to translate the street name into Chinese based on the approved English street names.</p>
+      <p>Applications for street names are not available in Chinese. The SBNB will liaise with the Ministry of Communications and Information (MCI) to translate the street name into Chinese based on the approved English street names.</p>
           </div>
-  </li>
-	  <li>
+</li>
+	
+<li>
     <input type="checkbox" id="accordion29">
     <label for="accordion29">Can an existing street name be changed or withdrawn?</label>
     <div>
-        <p>Such applications will not be considered, especially if they affect numerous existing addresses as it would cause too much inconvenience to the residences and/or businesses along the road.</p>
+      <p>Such applications will not be considered, especially if they affect numerous existing addresses as it would cause too much inconvenience to the residences and/or businesses along the road.</p>
           </div>
-  </li>
-		  <li>
+</li>
+	<li>
     <input type="checkbox" id="accordion30">
     <label for="accordion30">Upon obtaining the approval for the street name from the SBNB, will I be required to inform other government agencies?</label>
     <div>
-        <p>No, SBNB will inform the relevant government agencies.</p>
+      <p>No, SBNB will inform the relevant government agencies.</p>
           </div>
-  </li>
-		  <li>
+</li>
+	
+<li>
     <input type="checkbox" id="accordion31">
     <label for="accordion31">Where can the public provide feedback regarding public roads and directional signage?</label>
     <div>
-        <p>As public roads come under the purview of the Land Transport Authority (LTA), members of the public can contact LTA directly on such matters, including issues regarding directional signage to guide the public. For suggestions on naming or re-naming of public roads, LTA will evaluate their merit before proposing the names to the SBNB for further consideration.</p>
+      <p>As public roads come under the purview of the Land Transport Authority (LTA), members of the public can contact LTA directly on such matters, including issues regarding directional signage to guide the public. For suggestions on naming or re-naming of public roads, LTA will evaluate their merit before proposing the names to the SBNB for further consideration.</p>
           </div>
-  </li>
-		</ul>
+</li>
+	
+</ul>
