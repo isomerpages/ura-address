@@ -8,7 +8,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">What should I do if I wish to name a street or building/estate?</label>
+    <label for="accordion1">What should I do if I wish to name a street, building or estate?</label>
     <div>
       <p>You may <a href = "https://digitalservice.ura.gov.sg/sbnb/">submit an application</a> to SBNB for approval.</p>
           </div>
@@ -16,7 +16,7 @@ description: ""
 	
 <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Why do I need to apply for a street or building/estate name?</label>
+    <label for="accordion2">Why do I need to apply for a street, building or estate name?</label>
     <div>
       <p>The purpose of applications is to ensure that names are appropriate in the context of the location and the physical attributes of the streets and buildings/estates. It is also to ensure that there are no duplicate names.</p>
           </div>
@@ -24,18 +24,17 @@ description: ""
 	
 <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Who can name a street or building/estate?</label>
+    <label for="accordion3">Who can name a street, building or estate?</label>
     <div>
-      <p>Only the owner can name the building/estate. The owner may appoint a representative (e.g. architect) to submit the naming  
-application on their behalf.</p>
+      <p>Only the owner can name the street, building or estate. The owner may appoint a representative (e.g. architect) to submit the naming application on their behalf.</p>
           </div>
 </li>
 	
 <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">When can I apply for a street or building/estate name?</label>
+    <label for="accordion4">When can I apply for a street, building or estate name?</label>
     <div>
-      <p>For new streets and buildings, you may submit an application any time from the submission of a development application to URA. For existing buildings and streets, you may submit an application at any time.</p>
+      <p>For new streets, buildings and estates, you may submit an application any time from the submission of a development application to URA. For existing streets, buildings and estates you may submit an application at any time.</p>
           </div>
 </li>
 	
