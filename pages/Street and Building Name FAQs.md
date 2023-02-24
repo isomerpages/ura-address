@@ -112,9 +112,19 @@ will be notified accordingly.</p>
 	
 <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Who can submit the application?</label>
+    <label for="accordion2">What are the types of buildings/estates that do not require naming approval from the SBNB?</label>
     <div>
-      <p>Owner or developer of the property can submit the application. The owner may appoint a representative, usually a Qualified Person or the tenant, to submit the application on his behalf.</p>
+      <p>The following building/estates do not come under the purview of SBNB and hence do not require approval from SBNB.  
+ 
+<ul>  
+<li> Shophouse developments with less than 5 units  </li>
+<li> Residential developments with less than 5 units  </li>
+<li> Places of worship  </li>
+<li> Golf & Recreation clubs </li>
+	<li> Educational institutions (approval to be obtained from Ministry of Education)    </li>
+	<li> Hotels (approval to be obtained from Hotel Licensing Board)   </li>
+	<li> Sports and recreation facilities, except stadiums (approval to be obtained from Sport Singapore)  </li>
+</ul></p>
           </div>
 </li>
 	
