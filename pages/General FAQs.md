@@ -24,7 +24,7 @@ description: ""
 	
 <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Who can submit an application for street name, building name, house number or unit number?</label>
+    <label for="accordion3">Who can submit an application?</label>
     <div>
       <p>Only the owner can do so. The owner may appoint a representative (e.g. architect) to submit the application on their behalf.</p>
           </div>
