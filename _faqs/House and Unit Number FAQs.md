@@ -3,9 +3,6 @@ title: House and Unit Number FAQs
 permalink: /faq/house-unit-faqs/
 description: ""
 ---
-
-
-
 <h4>General Information</h4>
 
 <ul class="jekyllcodex_accordion">
@@ -55,6 +52,5 @@ description: ""
     <div>
       <p>The owner or developer is required to inform IRAS on the withdrawal of number when a house/unit number is no longer required. In situations when a building has been demolished, the house number becomes invalid and should therefore be withdrawn. To notify IRAS on the withdrawal of number, email us at housenumber@iras.gov.sg.</p>
           </div>
-</li>
-	
+</li>	
 </ul>
