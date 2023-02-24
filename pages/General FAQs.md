@@ -22,7 +22,7 @@ description: ""
           </div>
 </li>
 	
-	<li>
+<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Why do I need to apply for a house and/or unit number?</label>
     <div>
