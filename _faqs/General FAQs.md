@@ -70,7 +70,7 @@ description: ""
           </div>
 </li></ul>
 	
-<h4>Others</h4>
+<h4>Other Information</h4>
 	
 <ul class="jekyllcodex_accordion">
 <li>
