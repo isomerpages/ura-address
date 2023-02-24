@@ -8,7 +8,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">How can I submit an application for a street name, building name, house number or unit number?</label>
+    <label for="accordion1">How can I submit an application for a street name, building name, estate name, house number or unit number?</label>
     <div>
       <p>You may <a href = "https://digitalservice.ura.gov.sg/sbnb/">submit an application</a> through our e-service.</p>
           </div>
