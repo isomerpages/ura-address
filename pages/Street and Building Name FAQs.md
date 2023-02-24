@@ -86,9 +86,7 @@ will be notified accordingly.</p>
     <div>
       <p>The SBNB operates under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</p>
           </div>
-</li>
-	
-</ul>
+</li></ul>
 
 <ul class="jekyllcodex_accordion">
   <li>
