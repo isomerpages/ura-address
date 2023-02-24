@@ -34,8 +34,8 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">When can I submit an application?</label>
     <div>
-      <p>For new streets, buildings and estates, you may submit an application any time from the submission of a development application to URA. For existing streets, buildings and estates you may submit an application at any time.<br><br>			
-			House and unit number applications should preferably be submitted immediately after the Grant of Written Permission for a development is granted by URA.</p> </div>
+      <p>For new streets, buildings and estates, you may submit a naming application any time after the submission of a development application to URA. For existing streets, buildings and estates you may submit a naming application at any time.<br><br>			
+			For new buildings, house and unit number applications should preferably be submitted immediately after the Grant of Written Permission is granted by URA. For existing buildings, you may submit a house or unit application at any time.</p></div>
 </li>
 	
 <li>
