@@ -38,6 +38,8 @@ We encourage applicants to read through the naming principles and guidelines in 
 <a href="https://www.ura.gov.sg/Corporate/Guidelines/-/media/63EF655B94214D9189126CE3AF94A380.ashx"><img src="/images/Street%20Name%20Handbook.png" style="width:200px"></a>
 </div>
 
-<h3>Submission Requirements</h3>
+<h3>Apply</h3>
+
+You may submit at application for a street, building or estate name through our e-service.
   
-Before your submit application for naming of buildings / estates and streets, please read the submission requirements. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
+Before submiting your application, please read the submission requirements. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
