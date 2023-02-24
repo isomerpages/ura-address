@@ -3,8 +3,6 @@ title: Street and Building Name FAQs
 permalink: /faq/sbnb-faqs/
 description: ""
 ---
-
-
 <h4>General Information</h4>
 
 <ul class="jekyllcodex_accordion">
@@ -14,8 +12,7 @@ description: ""
     <div>
       <p>You may <a href = "https://digitalservice.ura.gov.sg/sbnb/">submit an application</a> to SBNB for approval.</p>
     </div>
- </li>  
-	
+ </li> 	
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Why do I need to apply for a street or building/estate name?</label>
