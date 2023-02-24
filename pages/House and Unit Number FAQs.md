@@ -5,6 +5,7 @@ description: ""
 ---
 <h4>General Information</h4>
 
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Why do I need to apply for a house / unit number?</label>
