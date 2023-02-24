@@ -2,4 +2,5 @@ collections:
   faqs:
     output: true
     order:
+      - Street and Building Name FAQs.md
       - Frequently Asked Questions.md
