@@ -14,4 +14,12 @@ description: ""
           </div>
   </li>
 	
+<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Who can submit the application?</label>
+    <div>
+      <p>Properties have to be numbered for identification purposes. This is to ensure that each property is allotted with a unique address and there is no duplication of address that is already in existence.</p>
+          </div>
+</li>
 	
+</ul>
