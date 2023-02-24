@@ -2,5 +2,6 @@ collections:
   faqs:
     output: true
     order:
+      - General FAQs.md
       - Street and Building Name FAQs.md
       - House and Unit Number FAQs.md
