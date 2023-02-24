@@ -84,9 +84,10 @@ will be notified accordingly.</p>
     <input type="checkbox" id="accordion41">
     <label for="accordion41">Which statute does the SBNB operate under?</label>
     <div>
-      <p>The SBNB operates under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</p>
+      <p>The SBNB operates under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p>
           </div>
-</li></ul>
+</li>
+</ul>
 
 <ul class="jekyllcodex_accordion">
   <li>
