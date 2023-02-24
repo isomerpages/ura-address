@@ -3,7 +3,7 @@ title: General FAQs
 permalink: /faq/general/
 description: ""
 ---
-<h4>General FAQs</h4>
+<h4>Application Information</h4>
 
 <ul class="jekyllcodex_accordion">
   <li>
@@ -68,8 +68,11 @@ description: ""
     <div>
       <p>You may <a href = "https://digitalservice.ura.gov.sg/sbnb/checkApplication">check the status of your application</a> at any time.</p>
           </div>
-</li>
+</li></ul>
 	
+<h4>Others</h4>
+	
+<ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Which statute does SBNB and IRAS operate under?</label>
