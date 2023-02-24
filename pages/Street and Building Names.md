@@ -42,4 +42,4 @@ We encourage applicants to read through the naming principles and guidelines in 
 
 You may submit at application for a street, building or estate name through our e-service.
   
-Before submiting your application, please read the submission requirements. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
+Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
