@@ -98,11 +98,11 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
 	
 <li>
     <input type="checkbox" id="accordion14">
-    <label for="accordion14">What are the submission requirements for applying for an estate name?</label>
+    <label for="accordion14">What are the submission requirements for applying for a building or estate name?</label>
     <div>
       <p>You will need to furnish:  
 <ol>  
-	<li>The proposed estate names and the reasons</li> 
+	<li>The proposed names and the reasons</li> 
 	<li>Any other documents to support your proposed names</li>
 			</ol></p>
           </div>
