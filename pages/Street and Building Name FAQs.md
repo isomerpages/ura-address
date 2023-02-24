@@ -221,9 +221,17 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
 
 <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11">Can an existing building / estate name be changed or withdrawn?</label>
+    <label for="accordion11">Is estate naming (e.g. Sennett Estate) under the purview of the SBNB?</label>
     <div>
-      <p>Such applications will be considered only if there are merits to do so, such as a change in ownership or the anchor tenant.</p>
+      <p>Yes, the naming of housing estates is under the purview of the SBNB.</p>
+          </div>
+</li>
+
+<li>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">Is the block and house numbering under the purview of the SBNB?</label>
+    <div>
+      <p>Block and house numbering is under the purview of the Inland Revenue Authority of Singapore (IRAS).</p>
           </div>
 </li>
 	
