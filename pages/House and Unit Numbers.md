@@ -70,7 +70,7 @@ Generally, it takes 4 weeks to process the application upon receipt of complete 
 
 A Certificate of Numbering (CON) indicating the list of allotted numbers will be issued by IRAS to the applicant.
 
-Applying for Change of Unit Number
+<h3>Applying for Change of Unit Number</h3>
 This is applicable when there is a change in the configuration of units within a building due to subdivision or amalgamation of existing units.
 
 For example, if a shop unit #01-02 is subdivided into two, the two units have to be renumbered as #01-02 and #01-02A or #01-03.
@@ -93,7 +93,7 @@ Generally, it takes 4 weeks to process the application upon receipt of complete 
 
 A Certificate of Numbering (CON) indicating the list of allotted unit numbers will be issued by IRAS to the applicant.
 
-Display of House and Unit Numbers
+<h3>Display of House and Unit Numbers</h3>
 The property owner is required to display the house/unit number at a conspicuous place. Failure to display the assigned number or displaying an unassigned number is an offence under the Property Tax Act.
 
 The number shall be marked or displayed in the following manner as provided for in the subsidiary legislation of the Property Tax Act:
