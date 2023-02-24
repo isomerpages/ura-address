@@ -33,7 +33,7 @@ A good name is one that:
   
 We encourage applicants to read through the naming principles and guidelines in the Handbooks below.
 
-<img src="/images/yourimage.jpg" style="width:400px;"/>
+<a href="https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx"><img src="/images/Building%20Name%20Handbook.png" style="width:200px"></a>
 
 <h4>Submission Requirements</h4>
   
