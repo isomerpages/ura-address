@@ -3,7 +3,6 @@ title: Street and Building Name FAQs
 permalink: /faq/sbnb-faqs/
 description: ""
 ---
-
 <h4>General Information</h4>
 
 <ul class="jekyllcodex_accordion">
@@ -41,7 +40,7 @@ description: ""
 	
 <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Is there a processing fee to be paid?</label>
+    <label for="accordion5">Is there a processing fee for the application?</label>
     <div>
       <p>There is currently no processing fee to be paid.</p>
           </div>
