@@ -75,7 +75,7 @@ will be notified accordingly.</p>
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Will there be a penalty imposed for changing a name after the SBNB has given approval?</label>
     <div>
-      <p>There is currently no penalty for changing a street or building/estate name after approval has been obtained.</p>
+      <p>There is currently no penalty for changing a street, building or estate name after approval has been obtained.</p>
           </div>
 </li>
 	
@@ -85,14 +85,14 @@ will be notified accordingly.</p>
     <div>
       <p>The SBNB operates under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p></div></li></ul>
 
-<h4>Building/Estate Name Applications</h4>
+<h4>Building and Estate Name Applications</h4>
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11">What are the types of buildings/estates that require naming approval from the SBNB?</label>
+    <label for="accordion11">What are the types of buildings and estates that require naming approval from the SBNB?</label>
     <div>
-      <p>The following buildings/estates come under the purview of the SBNB and require naming approval:  
+      <p>The following buildings and estates come under the purview of the SBNB and require naming approval:  
   
 <ul>  
 <li> Residential buildings</li>
@@ -111,9 +111,9 @@ will be notified accordingly.</p>
 	
 <li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12">What are the types of buildings/estates that do not require naming approval from the SBNB?</label>
+    <label for="accordion12">What are the types of buildings and estates that do not require naming approval from the SBNB?</label>
     <div>
-      <p>The following building/estates do not come under the purview of SBNB and hence do not require approval from SBNB.  
+      <p>The following building and estates do not come under the purview of SBNB and hence do not require approval from SBNB.  
  
 <ul>  
 <li> Shophouse developments with less than 5 units  </li>
@@ -180,7 +180,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
 	
 <li>
     <input type="checkbox" id="accordion16">
-    <label for="accordion16">Can I submit the proposed building / estate name in both English and Chinese together?</label>
+    <label for="accordion16">Can I submit the proposed building or estate name in both English and Chinese together?</label>
     <div>
       <p>Yes, you may do so. Alternatively, you may submit the Chinese name after the English building or estate name has been approved.</p>
           </div>
@@ -188,7 +188,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
 
 <li>
     <input type="checkbox" id="accordion17">
-    <label for="accordion17">Can an existing building / estate name be changed or withdrawn?</label>
+    <label for="accordion17">Can an existing building or estate name be changed or withdrawn?</label>
     <div>
       <p>Such applications will be considered only if there are merits to do so, such as a change in ownership or the anchor tenant.</p>
           </div>
