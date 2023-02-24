@@ -3,7 +3,7 @@ title: Street and Building Name FAQs
 permalink: /faq/sbnb-faqs/
 description: ""
 ---
-<h4>General Street and Building Name Information</h4>
+<h4>General Application Information</h4>
 
 <ul class="jekyllcodex_accordion">
 <li>
