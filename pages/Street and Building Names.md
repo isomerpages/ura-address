@@ -40,6 +40,6 @@ We encourage applicants to read through the naming principles and guidelines in 
 
 <h3>Apply</h3>
 
-You may submit at application for a street, building or estate name through our e-service.
+You may submit an application for a street, building or estate name through our <a href = "https://digitalservice.ura.gov.sg/sbnb/">e-service.</a>
   
 Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
