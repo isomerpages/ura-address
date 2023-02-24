@@ -37,7 +37,6 @@ We encourage applicants to read through the naming principles and guidelines in 
 <a href="https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx"><img src="/images/Building%20Name%20Handbook.png" style="margin-left:150px;margin-right: 50px;width:200px"></a>
 <a href="https://www.ura.gov.sg/Corporate/Guidelines/-/media/63EF655B94214D9189126CE3AF94A380.ashx"><img src="/images/Street%20Name%20Handbook.png" style="width:200px"></a>
 </div>
-	</div>
 
 <h4>Submission Requirements</h4>
   
