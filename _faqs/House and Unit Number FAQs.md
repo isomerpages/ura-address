@@ -3,7 +3,8 @@ title: House and Unit Number FAQs
 permalink: /faq/house-unit-faqs/
 description: ""
 ---
-<li>
+<ul>
+	<li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">When can I use the house/unit number?</label>
     <div>
