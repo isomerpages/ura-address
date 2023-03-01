@@ -107,3 +107,7 @@ The number shall be marked or displayed in the following manner as provided for 
 
 4. Where a number is to be marked or displayed on the outside surface of the front wall of a building, it shall be between 1.5 metres and six metres above the level of the ground. In all other cases it shall be between one metre and 2.5 metres above the level of the ground.
 5. Only Arabic numerals and Roman letters of the alphabet shall be used. Please refer to  Property Tax (Property Numbers) regulations (PDF, 64.9KB) on the subsidiary legislation on display of house and unit numbers.
+
+<h3>Apply</h3>
+
+You may <a href = "https://digitalservice.ura.gov.sg/sbnb/">submit an application</a> through our e-service. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
