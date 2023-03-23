@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Property Names and Address
-description: Property Names and Address
+description: Property Name and Address
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -29,4 +29,5 @@ sections:
       image: /images/Number Pic.png
       alt: House and Unit number picture
 ---
+
 
