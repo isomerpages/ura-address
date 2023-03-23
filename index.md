@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Property Names and Address
+title: Property Name and Address
 description: Property Name and Address
 image: /images/isomer-logo.svg
 permalink: /
@@ -29,5 +29,6 @@ sections:
       image: /images/Number Pic.png
       alt: House and Unit number picture
 ---
+
 
 
