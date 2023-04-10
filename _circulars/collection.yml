@@ -1,0 +1,4 @@
+collections:
+  circulars:
+    output: true
+    order: []
