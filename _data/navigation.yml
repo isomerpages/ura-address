@@ -4,13 +4,6 @@ links:
     url: https://digitalservice.propertynaa.gov.sg
   - title: Guidelines
     collection: guidelines
-  - title: Guidelines
-    url: /guidelines/sbnb
-    sublinks:
-      - title: Street and Building Names
-        url: /guidelines/sbnb
-      - title: House and Unit Numbers
-        url: /guidelines/house-and-unit-numbers
   - title: FAQ
     url: /faq/general/
     sublinks:
@@ -22,3 +15,5 @@ links:
         url: /faq/house-unit-faqs/
   - title: Contact Us
     url: https://digitalservice.propertynaa.gov.sg/contact/
+  - title: FAQ
+    collection: faqs
