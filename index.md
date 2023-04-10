@@ -17,7 +17,7 @@ sections:
         building names are appropriate in the context of their location and
         physical attributes.
       button: Guidelines
-      url: /street-and-building-names
+      url: /sbnb
       image: /images/Singapore Skyline 4k.png
       alt: Singapore skyline picture
   - infopic:
