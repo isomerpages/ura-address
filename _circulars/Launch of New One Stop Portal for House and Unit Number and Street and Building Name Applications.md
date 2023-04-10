@@ -4,27 +4,25 @@ title: Launch of New One Stop Portal for House and Unit Number and Street and
 permalink: /circulars/2023-01/
 description: ""
 ---
-Published:    24 April 2023
+Published:&nbsp;&nbsp;&nbsp; 24 April 2023
 
 **CIRCULAR TO PROFESSIONAL INSTITUTES**
 
-Who should know:
-Qualified persons, developers and building owners, property agents
+Who should know: <br>Qualified persons, developers and building owners, property agents<br>
 
-Effective date:
-With immediate effect
+Effective date: <br>With immediate effect<br>
 
 1. The Inland Revenue Authority of Singapore (IRAS) and Street and Building Names Board (SBNB) are pleased to announce the launch of the **Property Name and Address**  e-service. This new e-service aims to provide greater convenience for users to apply for house and unit numbers and street and building names on the same platform.
 2. Designed based on industry feedback, the new e-service includes features such as:
-a.     an improved interface for easier viewing and managing of multiple applications,
+a.&nbsp;&nbsp;&nbsp;&nbsp; an improved interface for easier viewing and managing of multiple applications,
 
-b.     an interactive map for easy selection of the property,
+b.&nbsp;&nbsp;&nbsp;&nbsp; an interactive map for easy selection of the property,
 
-c.     auto-retrieval of applicant’s particulars via MyInfo, and
+c.&nbsp;&nbsp;&nbsp;&nbsp; auto-retrieval of applicant’s particulars via MyInfo, and
 
-d.     automated checks to help applicants comply with IRAS and SBNB guidelines.
+d.&nbsp;&nbsp;&nbsp;&nbsp; automated checks to help applicants comply with IRAS and SBNB guidelines.
 
-3. All new applications for both house and unit numbers and street and building names can now be submitted through the new e-service. The e-service can be accessed at [https://digitalservice.propertynaa.gov.sg](https://digitalservice.propertynaa.gov.sg "https://digitalservice.propertynaa.gov.sg/"). For ease of transition, IRAS will continue to accept manual applications for house and unit number until 30 Jun 2023.
+3. All new applications for both house and unit numbers and street and building names can now be submitted through the new e-service. The e-service can be accessed at&nbsp;[https://digitalservice.propertynaa.gov.sg](https://digitalservice.propertynaa.gov.sg "https://digitalservice.propertynaa.gov.sg/"). For ease of transition, IRAS will continue to accept manual applications for house and unit number until 30 Jun 2023.
 
 4. This is part of a new informational website at [https://propertynaa.gov.sg](https://propertynaa.gov.sg) consolidating guidelines and FAQs for both house and unit numbers and street building names.
 
