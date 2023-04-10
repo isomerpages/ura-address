@@ -17,7 +17,7 @@ sections:
         building names are appropriate in the context of their location and
         physical attributes.
       button: Guidelines
-      url: /sbnb
+      url: /guidelines/sbnb
       image: /images/Singapore Skyline 4k.png
       alt: Singapore skyline picture
   - infopic:
@@ -25,7 +25,7 @@ sections:
       description: The Inland Revenue Authority of Singapore (IRAS) ensures that
         properties are numbered appropriately for indentification purposes.
       button: Guidelines
-      url: /house-and-unit-numbers
+      url: /guidelines/house-and-unit-numbers
       image: /images/Number Pic.png
       alt: House and Unit number picture
 ---
