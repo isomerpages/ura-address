@@ -23,8 +23,6 @@ With immediate effect
 	<li>Auto-retrieval of applicant’s particulars via MyInfo&nbsp;</li>
 </ol>
 
-
-
 3.  The revamped e-service can be accessed via this [link](https://digitalservice.ura.gov.sg/sbnb/). It is also accessible on-the-go from your tablets and mobile devices.<br>
 <br>
 4.  We are also collaborating with IRAS to integrate house and unit number applications to create a one-stop portal for street and building naming and address applications. More information on this will be released at a later date.&nbsp;<br>
