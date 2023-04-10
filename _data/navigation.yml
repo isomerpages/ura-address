@@ -3,6 +3,8 @@ links:
   - title: Apply
     url: https://digitalservice.propertynaa.gov.sg
   - title: Guidelines
+    collection: guidelines
+  - title: Guidelines
     url: /guidelines/sbnb
     sublinks:
       - title: Street and Building Names
