@@ -4,7 +4,7 @@ title: Launch of New One Stop Portal for House and Unit Number and Street and
 permalink: /circulars/2023-01/
 description: ""
 ---
-Published:&nbsp;&nbsp;&nbsp; 24 April 2023
+Published: 24 April 2023
 
 **CIRCULAR TO PROFESSIONAL INSTITUTES**
 
