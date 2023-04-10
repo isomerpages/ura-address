@@ -8,9 +8,11 @@ Published:&nbsp;&nbsp;&nbsp; 24 April 2023
 
 **CIRCULAR TO PROFESSIONAL INSTITUTES**
 
-Who should know: <br>Qualified persons, developers and building owners, property agents<br>
+Who Should Know:  
+Qualified persons, developers and building owners, property agents  
 
-Effective date: <br>With immediate effect<br>
+Effective Date:  
+With immediate effect  
 
 1. The Inland Revenue Authority of Singapore (IRAS) and Street and Building Names Board (SBNB) are pleased to announce the launch of the **Property Name and Address**  e-service. This new e-service aims to provide greater convenience for users to apply for house and unit numbers and street and building names on the same platform.
 2. Designed based on industry feedback, the new e-service includes features such as:
