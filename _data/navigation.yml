@@ -10,10 +10,6 @@ links:
       - title: House and Unit Numbers
         url: /house-and-unit-numbers
   - title: FAQ
-    url: /faq/general/
-  - title: Contact Us
-    url: https://digitalservice.propertynaa.gov.sg/contact/
-  - title: FAQ
     url: /permalink
     sublinks:
       - title: General
@@ -22,3 +18,5 @@ links:
         url: /faq/sbnb-faqs/
       - title: House and Unit Numbers
         url: /faq/house-unit-faqs/
+  - title: Contact Us
+    url: https://digitalservice.propertynaa.gov.sg/contact/
