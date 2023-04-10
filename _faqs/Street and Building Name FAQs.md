@@ -26,13 +26,13 @@ description: ""
 <h4>Building and Estate Names</h4>
 
 <ul class="jekyllcodex_accordion">
-  <li>
+&nbsp;&nbsp;<li>
     <input type="checkbox" id="accordion11">
     <label for="accordion11">What are the types of buildings and estates that require naming approval from the SBNB?</label>
     <div>
       <p>The following buildings and estates come under the purview of the SBNB and require naming approval:  
   
-<ul>  
+</p><ul>  
 <li> Residential buildings</li>
 <li> Commercial buildings</li>
 <li> Industrial buildings</li>
@@ -43,7 +43,7 @@ description: ""
 	<li>Buildings used for community service / activity  </li>
 	<li> Hospitals and healthcare facilities</li>
 	<li> Mixed-use developments (Definition: A development with 2 or more approved uses listed in this section)</li>
-</ul></p>
+</ul><p></p>
           </div>
   </li>
 	
@@ -53,15 +53,15 @@ description: ""
     <div>
       <p>The following building and estates do not come under the purview of SBNB and hence do not require approval from SBNB.  
  
-<ul>  
+</p><ul>  
 <li> Shophouse developments with less than 5 units  </li>
 <li> Residential developments with less than 5 units  </li>
 <li> Places of worship  </li>
-<li> Golf & Recreation clubs </li>
+<li> Golf &amp; Recreation clubs </li>
 	<li> Educational institutions (approval to be obtained from Ministry of Education)    </li>
 	<li> Hotels (approval to be obtained from Hotel Licensing Board)   </li>
 	<li> Sports and recreation facilities, except stadiums (approval to be obtained from Sport Singapore)  </li>
-</ul></p>
+</ul><p></p>
           </div>
 </li>
 	
@@ -69,13 +69,13 @@ description: ""
     <input type="checkbox" id="accordion13">
     <label for="accordion13">What are the key naming guidelines?</label>
     <div>
-      <p>We encourage applicants to read through the naming principles and guidelines in the <a href = "https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx">Handbook on Guidelines for  
+      <p>We encourage applicants to read through the naming principles and guidelines in the <a href="https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx">Handbook on Guidelines for  
 Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:  
 				<br>
 				<br>
 <b>A good name</b>  
  
-<ol>
+</p><ol>
 <li>Fits the location and environment of the development</li>
 <li>Fits the size and type of the development</li>  
 <li>Avoids confusion with another development in another part of Singapore</li>  
@@ -92,7 +92,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
 <li>Names which may be deemed controversial or offensive</li>  
 <li>Names of persons, living or dead, unless for special reasons</li>  
 <li>Names of national institutions/symbols, public office and international organisations such as Singapore, National, Raffles, Merlion, ASEAN, APEC or Temasek</li>
-			</ol></p>
+			</ol><p></p>
           </div>
 </li>
 	
@@ -101,10 +101,10 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
     <label for="accordion14">What are the submission requirements for applying for a building or estate name?</label>
     <div>
       <p>You will need to furnish:  
-<ol>  
+</p><ol>  
 	<li>The proposed names and the reasons</li> 
 	<li>Any other documents to support your proposed names</li>
-			</ol></p>
+			</ol><p></p>
           </div>
 </li>
 	
@@ -112,7 +112,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
     <input type="checkbox" id="accordion15">
     <label for="accordion15">Where can I find information on all existing building names in Singapore?</label>
     <div>
-      <p>You can <a href = "https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing building names.</a></p>
+      <p>You can <a href="https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing building names.</a></p>
           </div>
 </li>
 	
@@ -152,7 +152,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
     <input type="checkbox" id="accordion20">
     <label for="accordion20">Is it compulsory to display the approved building name on the building?</label>
     <div>
-      <p>You have to display the approved building name in a conspicuous position on the building. Failure to do so is considered an offence under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p>
+      <p>You have to display the approved building name in a conspicuous position on the building. Failure to do so is considered an offence under the <a href="https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p>
           </div>
 </li>
 
@@ -164,20 +164,12 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
           </div>
 </li>
 
-<li>
-    <input type="checkbox" id="accordion22">
-    <label for="accordion22">Is the block and house numbering under the purview of the SBNB?</label>
-    <div>
-      <p>Block and house numbering is under the purview of the Inland Revenue Authority of Singapore (IRAS).</p>
-          </div>
-</li>
-	
 </ul>
 
 <h4>Street Names</h4>
 
 <ul class="jekyllcodex_accordion">
-  <li>
+&nbsp;&nbsp;<li>
     <input type="checkbox" id="accordion23">
     <label for="accordion23">What are the types of streets that require naming approval from SBNB?</label>
     <div>
@@ -197,12 +189,12 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
     <input type="checkbox" id="accordion25">
     <label for="accordion25">What are the key naming guidelines?</label>
     <div>
-      <p>We encourage all applicants to read through the detailed naming principles and guidelines in the <a href = "https://www.ura.gov.sg/Corporate/Guidelines/-/media/63EF655B94214D9189126CE3AF94A380.ashx">Handbook on Guidelines for Naming of Streets.</a> Some of the key guidelines include:  
+      <p>We encourage all applicants to read through the detailed naming principles and guidelines in the <a href="https://www.ura.gov.sg/Corporate/Guidelines/-/media/63EF655B94214D9189126CE3AF94A380.ashx">Handbook on Guidelines for Naming of Streets.</a> Some of the key guidelines include:  
   <br>
 				<br>			
 <b>A good name</b>
   
-<ol>
+</p><ol>
 	<li>Provides clear location or direction cues to locate properties and essential services quickly and efficiently</li>
 <li>Reflects the physical attributes or design configuration of the streets</li>  
 <li>Avoids confusion with another street name or building / estate name in another part of Singapore</li>  
@@ -214,7 +206,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
   <ol>
 <li>Names of any specific development where there are other developments located along the same street</li>  
 <li>Names of persons, companies, associations and communities</li>   
-<li>Names which may be deemed controversial or offensive</li></ol></p>
+<li>Names which may be deemed controversial or offensive</li></ol><p></p>
           </div>
 </li>
 	
@@ -223,11 +215,11 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
     <label for="accordion26">What are the submission requirements for applying for a street name?</label>
     <div>
       <p>ou will need to furnish:  
- <ol> 
+ </p><ol> 
 <li>The proposed street name and the supporting reasons.</li>  
 <li>Dimensions of street (length and width) and the road category of the street to be named</li>  
 	 <li>Any other documents to support your proposed names</li>
-			</ol></p>
+			</ol><p></p>
           </div>
 </li>
 	
@@ -235,7 +227,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
     <input type="checkbox" id="accordion27">
     <label for="accordion27">Where can I find information on all existing street names in Singapore?</label>
     <div>
-      <p>You can <a href = "https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing street names.</a></p>
+      <p>You can <a href="https://digitalservice.ura.gov.sg/sbnb/checkapprovednames">search for existing street names.</a></p>
           </div>
 </li>
 	
