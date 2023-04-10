@@ -65,7 +65,7 @@ description: ""
     <input type="checkbox" id="accordion8">
     <label for="accordion8">How do I check on the status of my application?</label>
     <div>
-      <p>You may <a href="https://digitalservice.ura.gov.sg/sbnb/checkApplication">check the status of your application</a> at any time.</p>
+      <p>You may <a href="https://digitalservice.propertynaa.gov.sg/checkApplication">check the status of your application</a> at any time.</p>
           </div>
 </li></ul>
 	
