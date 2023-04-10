@@ -3,7 +3,7 @@ title: House and Unit Numbers
 permalink: /house-and-unit-numbers/
 description: ""
 ---
-![Houaw & Unit Number Pic](/images/House%20&%20Unit%20Pic%204k.png)
+![Houaw &amp; Unit Number Pic](/images/House%20&amp;%20Unit%20Pic%204k.png)
 
 <h3>The Purpose of House and Unit Numbers</h3>
 
@@ -110,4 +110,4 @@ The number shall be marked or displayed in the following manner as provided for 
 
 <h3>Apply</h3>
 
-You may <a href = "https://digitalservice.ura.gov.sg/sbnb/">submit an application</a> through our e-service. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
+You may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our e-service. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
