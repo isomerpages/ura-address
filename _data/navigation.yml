@@ -6,9 +6,9 @@ links:
     url: /guidelines/sbnb
     sublinks:
       - title: Street and Building Names
-        url: /sbnb
+        url: /guidelines/sbnb
       - title: House and Unit Numbers
-        url: /house-and-unit-numbers
+        url: /guidelines/house-and-unit-numbers
   - title: FAQ
     url: /faq/general/
     sublinks:
