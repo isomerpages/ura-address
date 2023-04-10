@@ -4,7 +4,7 @@ title: Launch of New One Stop Portal for House and Unit Number and Street and
 permalink: /eservice-launch/
 description: ""
 ---
-Date:    24 April 2023
+Published:    24 April 2023
 
 **CIRCULAR TO PROFESSIONAL INSTITUTES**
 
