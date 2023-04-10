@@ -16,6 +16,7 @@ With immediate effect
 
 1. The Inland Revenue Authority of Singapore (IRAS) and Street and Building Names Board (SBNB) are pleased to announce the launch of the **Property Name and Address**  e-service. This new e-service aims to provide greater convenience for users to apply for house and unit numbers and street and building names on the same platform.
 2. Designed based on industry feedback, the new e-service includes features such as:
+
 a.&nbsp;&nbsp;&nbsp;&nbsp; an improved interface for easier viewing and managing of multiple applications,
 
 b.&nbsp;&nbsp;&nbsp;&nbsp; an interactive map for easy selection of the property,
