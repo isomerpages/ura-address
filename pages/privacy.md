@@ -6,7 +6,7 @@ permalink: /privacy/
 
 1. This is a Government of Singapore website
 
-2. 1. If you are only browsing this website, we do not capture data that allows us to identify you individually.
+2. If you are only browsing this website, we do not capture data that allows us to identify you individually.
 
 3. If you choose to make an application or send us an email for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by law. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
 
