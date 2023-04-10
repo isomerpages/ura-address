@@ -2,5 +2,5 @@ collections:
   guidelines:
     output: true
     order:
-      - House and Unit Numbers.md
       - Street and Building Names.md
+      - House and Unit Numbers.md
