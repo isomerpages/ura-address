@@ -11,5 +11,9 @@ links:
   - title: Contact Us
     url: https://digitalservice.propertynaa.gov.sg/contact/
   - title: Guidelines
-    url: /sbnb
-    sublinks: []
+    url: /permalink
+    sublinks:
+      - title: Street and Building Names
+        url: /sbnb
+      - title: House and Unit Numbers
+        url: /house-and-unit-numbers
