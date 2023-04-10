@@ -1,4 +1,5 @@
 collections:
   guidelines:
     output: true
-    order: []
+    order:
+      - Street and Building Names.md
