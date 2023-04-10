@@ -10,7 +10,7 @@ links:
       - title: House and Unit Numbers
         url: /house-and-unit-numbers
   - title: FAQ
-    url: /permalink
+    url: /faq/general/
     sublinks:
       - title: General
         url: /faq/general/
