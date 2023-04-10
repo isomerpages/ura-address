@@ -42,8 +42,8 @@ permalink: /terms-of-use/
     
     d. any delay or interruption in the transmission of the Contents on this Website, whether caused by delay or interruption in transmission over the internet or otherwise; or
     
-    e. any decision made or action taken by you or any third party in reliance upon the Contents, regardless of whether URA has been advised of the possibility of such damage or loss.
-    
+    e. any decision made or action taken by you or any third party in reliance upon the Contents, regardless of whether URA has been advised of the possibility of such damage or loss.<br>
+<br>
 3.  You shall not rely on any Contents of this Website to claim or assert any form of legitimate expectation against URA, whether procedural or substantive in nature, in respect of any action that URA may or may not take in the exercise of its discretion, or in connection with URA’s roles as a statutory agency.
 
 ### **Indemnity**
