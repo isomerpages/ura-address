@@ -2,14 +2,6 @@ logo: /images/Combined Logo 2.png
 links:
   - title: Apply
     url: https://digitalservice.propertynaa.gov.sg
-  - title: Street and Building Names
-    url: /sbnb
-  - title: House and Unit Numbers
-    url: /house-and-unit-numbers/
-  - title: FAQ
-    url: /faq/general/
-  - title: Contact Us
-    url: https://digitalservice.propertynaa.gov.sg/contact/
   - title: Guidelines
     url: /permalink
     sublinks:
@@ -17,3 +9,12 @@ links:
         url: /sbnb
       - title: House and Unit Numbers
         url: /house-and-unit-numbers
+  - title: FAQ
+    url: /faq/general/
+  - title: Contact Us
+    url: https://digitalservice.propertynaa.gov.sg/contact/
+  - title: FAQ
+    url: /permalink
+    sublinks:
+      - title: Street and Building Names
+        url: /faq/sbnb-faqs/
