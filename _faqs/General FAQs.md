@@ -5,11 +5,11 @@ description: ""
 ---
 <h4>Application Information</h4>
 <ul class="jekyllcodex_accordion">
-  <li>
+&nbsp;&nbsp;<li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">How can I submit an application for a street name, building name, estate name, house number or unit number?</label>
     <div>
-      <p>You may <a href = "https://digitalservice.ura.gov.sg/sbnb/">submit an application</a> through our e-service.</p>
+      <p>You may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our e-service.</p>
           </div>
   </li>
 	
@@ -65,7 +65,7 @@ description: ""
     <input type="checkbox" id="accordion8">
     <label for="accordion8">How do I check on the status of my application?</label>
     <div>
-      <p>You may <a href = "https://digitalservice.ura.gov.sg/sbnb/checkApplication">check the status of your application</a> at any time.</p>
+      <p>You may <a href="https://digitalservice.ura.gov.sg/sbnb/checkApplication">check the status of your application</a> at any time.</p>
           </div>
 </li></ul>
 	
@@ -76,4 +76,4 @@ description: ""
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Which statute does SBNB and IRAS operate under?</label>
     <div>
-      <p>The SBNB & IRAS operate under the <a href = "https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p></div></li></ul>
+      <p>The SBNB &amp; IRAS operate under the <a href="https://sso.agc.gov.sg/Act/PTA1960">Property Tax Act.</a></p></div></li></ul>
