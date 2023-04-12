@@ -13,7 +13,7 @@ Buildings and units are numbered for identification purposes. It is important th
 
 The allotted number in combination with the name of the street where it is located, forms a unique address.
 
-<img src="/images/address%20format%20image.png" style="width:500px">
+<img src="/images/address%20format%20image.png" style="width:550px">
 
 ![Address Format Image](/images/address%20format%20image.png)
 
