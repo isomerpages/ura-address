@@ -9,7 +9,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">How can I submit an application for a street name, building name, estate name, house number or unit number?</label>
     <div>
-      <p>You may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our e-service.</p>
+      <p>Property developers, owners or their appointed representatives may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our e-service.</p>
           </div>
   </li>
 	
