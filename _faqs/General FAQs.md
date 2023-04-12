@@ -33,7 +33,7 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Who can submit an application?</label>
     <div>
-      <p>Only the owner can do so. The owner may appoint a representative (e.g. architect) to submit the application on their behalf. The applicant will be required to log in to Singpass or Corppass to submit the application.</p>
+      <p>Only the owner can do so. The owner may appoint a representative (e.g. architect) to submit the application on their behalf. The applicant will be required to log in via Singpass or Corppass to submit the application.</p>
           </div>
 </li>
 	
