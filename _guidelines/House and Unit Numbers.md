@@ -35,6 +35,6 @@ description: ""
 
 <h3>Apply</h3>
 
-<p align="justify">Property developers, owners or their appointed representatives may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our digital service. Please ensure that you have the necessary information/documents before making an application. Generally, IRAS takes 4 weeks to process the application upon receipt of complete information.
-
+<p align="justify">Property developers, owners or their appointed representatives may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our digital service. Please ensure that you have the necessary information/documents before making an application. Generally, IRAS takes 4 weeks to process the application upon receipt of complete information.</p><p>
+</p><p align="justify">
 A Certificate of Numbering (CON) indicating the list of allotted numbers will be issued by IRAS to the applicant.</p>
