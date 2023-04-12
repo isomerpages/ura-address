@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: House and Unit Numbers
       description: The Inland Revenue Authority of Singapore (IRAS) ensures that
-        properties are numbered appropriately for indentification purposes.
+        properties are numbered appropriately for identification purposes.
       button: Guidelines
       url: /guidelines/house-and-unit-numbers
       image: /images/Number Pic.png
