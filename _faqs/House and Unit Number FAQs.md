@@ -45,7 +45,7 @@ The number shall be marked or displayed as provided for in the <a href="https://
     <div>
       <p></p><ul>
 			<li>Ensure the street name is approved by Street and Building Names Board (SBNB)&nbsp;</li>
-			<li>Read the house and/or unit numbers handbook&nbsp;&nbsp; (SBNB)&nbsp;</li>
+			<li>Read the house and/or unit numbers handbook&nbsp;&nbsp; &nbsp;</li>
 			<li>Ensure you have all the required documents ready for the application&nbsp;</li><p></p>
           </ul></div>
 </li>	
