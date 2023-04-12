@@ -25,7 +25,7 @@ description: ""
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Why do I need to apply for a house and/or unit number?</label>
     <div>
-      <p>Properties have to be numbered for identification purposes. This is to ensure that each property is allotted with a unique address and there is no duplication of address that is already in existence.</p>
+      <p>Houses and buildings are numbered for identification purposes to ensure that a property can be easily identified and located by emergency personnel, delivery services and the public in a quick and efficient way. It is important that every house and unit number is displayed at a conspicuous location.</p>
           </div>
 </li>
 	
