@@ -31,12 +31,10 @@ description: ""
 
 
 
-<a href="https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx"><img src="/images/iras%20handbook.png" style="width:200px"></a>
-
+<a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/hn-handbook.pdf?sfvrsn=aa992812_6"><img src="/images/iras%20handbook.png" style="width:200px"></a>
 
 <h3>Apply</h3>
 
 <p align="justify">Property developers, owners or their appointed representatives may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our digital service. Please ensure that you have the necessary information/documents before making an application. Generally, IRAS takes 4 weeks to process the application upon receipt of complete information.
 
 A Certificate of Numbering (CON) indicating the list of allotted numbers will be issued by IRAS to the applicant.</p>
-
