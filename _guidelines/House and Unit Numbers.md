@@ -19,6 +19,8 @@ The allotted number in combination with the name of the street where it is locat
 <br>
 <img src="/images/address%20format%20image.png" style="width:600px">
 <br>
+<img src="/images/address%20format%20image.png" style="width:700px">
+<br>
 <img src="/images/address%20format%20image.png" style="width:800px">
 
 ![Address Format Image](/images/address%20format%20image.png)
