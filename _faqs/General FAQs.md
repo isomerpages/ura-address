@@ -9,7 +9,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">How can I submit an application for a street name, building name, estate name, house number or unit number?</label>
     <div>
-      <p>Property developers, owners or their appointed representatives may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our e-service.</p>
+      <p>Property owners or their appointed representatives may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our e-service.</p>
           </div>
   </li>
 	
@@ -33,7 +33,7 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Who can submit an application?</label>
     <div>
-      <p>Only the owner can do so. The owner may appoint a representative (e.g. architect) to submit the application on their behalf.</p>
+      <p>Only the owner can do so. The owner may appoint a representative (e.g. architect) to submit the application on their behalf. The applicant will be required to log in to Singpass or Corppass to submit the application.</p>
           </div>
 </li>
 	
