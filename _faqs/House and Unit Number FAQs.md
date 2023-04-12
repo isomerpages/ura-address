@@ -3,7 +3,7 @@ title: House and Unit Number FAQs
 permalink: /faq/house-unit-faqs/
 description: ""
 ---
-<h4>General Information</h4>
+<h4>House and Unit Number</h4>
 
 <ul class="jekyllcodex_accordion">
 	<li>
