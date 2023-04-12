@@ -42,7 +42,7 @@ description: ""
     <label for="accordion5">When can I submit an application?</label>
     <div>
       <p>For new street, building and estate names, you may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> any time after the submission of a development application to URA. For existing streets, buildings and estates, you may submit a naming application at any time.<br><br>			
-			For house and unit numbers, you may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> to IRAS after the planning approval is granted by URA (i.e. Grant of Written Permission or Planning Clearance) or after the completion of the building changes. </p></div>
+			For house and unit numbers, you may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> after the planning approval is granted by URA (i.e. Grant of Written Permission or Planning Clearance) or after the completion of the building changes. </p></div>
 </li>
 	
 <li>
