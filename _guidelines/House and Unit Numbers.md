@@ -27,7 +27,7 @@ A good house/unit number is one that:
 
 We encourage applicants to read through the house and unit number guidelines in the handbook below. It explains the importance of house and unit number, and the considerations by IRAS when approving house and/or unit number applications.
 
-<a href="https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx"><img src="/images/iras%20handbook.png" style="margin-left:150px;margin-right: 40px;width:200px"></a>
+<a href="https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx"><img src="/images/iras%20handbook.png" style="margin-left:180px;margin-right:0px;width:200px"></a>
 
 
 <h3>Apply</h3>
