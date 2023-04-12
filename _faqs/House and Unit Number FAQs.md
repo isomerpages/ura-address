@@ -26,7 +26,7 @@ description: ""
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Do I need to inform IRAS when a house/unit number is no longer required?</label>
     <div>
-      <p>The property developer or owner is required to submit an application on the withdrawal of number when a house/unit number is no longer required. In situations when a building has been demolished, the house number as well as unit number(s), if any, become invalid and should therefore be withdrawn. .</p>
+      <p>The property developer or owner is required to <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> on the withdrawal of number when a house/unit number is no longer required. In situations when a building has been demolished, the house number as well as unit number(s), if any, become invalid and should therefore be withdrawn. .</p>
           </div>
 </li>	
 	
@@ -35,7 +35,7 @@ description: ""
     <label for="accordion4">Do I need to display the allotted address?</label>
     <div>
       <p>The property owner is required to display the house/unit number at a conspicuous place. Failure to display the assigned number or displaying an unassigned number is an offence under the Property Tax Act.
-The number shall be marked or displayed as provided for in the Property Tax (Property Numbers) Regulations of the Property Tax Act.  You may also reference the display guidelines in the House and/or Unit Number Handbook.</p>
+The number shall be marked or displayed as provided for in the <a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/propertytaxpropertynumbersregulations.pdf?sfvrsn=1673256f_4">Property Tax (Property Numbers) Regulations of the Property Tax Act.</a>  You may also reference the display guidelines in the House and/or Unit Number Handbook.</p>
           </div>
 </li>	
 	
