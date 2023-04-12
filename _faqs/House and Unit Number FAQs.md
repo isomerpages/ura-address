@@ -40,8 +40,8 @@ The number shall be marked or displayed as provided for in the <a href="https://
 </li>	
 	
 <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">What do I have to prepare before submitting an application?</label>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">What do I have to prepare before submitting an application?</label>
     <div>
       <p></p><ul>
 			<li>Ensure the street name is approved by Street and Building Names Board (SBNB)&nbsp;</li>
