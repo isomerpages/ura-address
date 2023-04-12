@@ -33,4 +33,4 @@ We encourage applicants to read through the house and unit number guidelines in 
 
 <h3>Apply</h3>
 
-You may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our e-service. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge
+You may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our e-service. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
