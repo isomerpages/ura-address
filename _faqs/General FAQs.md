@@ -41,8 +41,8 @@ description: ""
     <input type="checkbox" id="accordion5">
     <label for="accordion5">When can I submit an application?</label>
     <div>
-      <p>For new streets, buildings and estates, you may submit a naming application any time after the submission of a development application to URA. For existing streets, buildings and estates, you may submit a naming application at any time.<br><br>			
-			For new buildings, house and unit number applications should preferably be submitted immediately after the Grant of Written Permission is granted by URA. For existing buildings, you may submit a house or unit application at any time.</p></div>
+      <p>For new street, building and estate names, you may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> any time after the submission of a development application to URA. For existing streets, buildings and estates, you may submit a naming application at any time.<br><br>			
+			For house and unit numbers, you may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> to IRAS after the planning approval is granted by URA (i.e. Grant of Written Permission or Planning Clearance) or after the completion of the building changes. </p></div>
 </li>
 	
 <li>
@@ -65,7 +65,7 @@ description: ""
     <input type="checkbox" id="accordion8">
     <label for="accordion8">How do I check on the status of my application?</label>
     <div>
-      <p>You may <a href="https://digitalservice.propertynaa.gov.sg/checkApplication">check the status of your application</a> at any time.</p>
+      <p>You may <a href="https://digitalservice.propertynaa.gov.sg/eservice/checkApplication">check the status of your application</a> at any time.</p>
           </div>
 </li></ul>
 	
