@@ -37,7 +37,7 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Do I need to inform IRAS when a house/unit number is no longer required?</label>
     <div>
-      <p></p><p align="justify">The property developer or owner is required to <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> on the withdrawal of number when a house/unit number is no longer required. In situations when a building has been demolished, the house number as well as unit number(s), if any, become invalid and should therefore be withdrawn. .</p>
+      <p></p><p align="justify">The property developer or owner is required to <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> on the withdrawal of number when a house/unit number is no longer required. In situations when a building has been demolished, the house number as well as unit number(s), if any, become invalid and should therefore be withdrawn.</p>
           </div>
 </li>	
 	
