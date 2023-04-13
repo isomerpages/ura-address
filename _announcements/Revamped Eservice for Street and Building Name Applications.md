@@ -23,7 +23,5 @@ Date: 4 April 2022<br>
 5.  I would appreciate it if you could convey the contents of this circular to relevant members of your organisation. For feedback or enquiries on this circular, please [email](mailto:URA_SBNB@ura.gov.sg) us.<br>
 <br>
 Thank You.<br>
-<br>
-KIM PUA (MS)  
-SECRETARIAT  
+<br>  
 STREET AND BUILDING NAMES BOARD
