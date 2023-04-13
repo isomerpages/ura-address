@@ -214,7 +214,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
     <input type="checkbox" id="accordion26">
     <label for="accordion26">What are the submission requirements for applying for a street name?</label>
     <div>
-      <p>ou will need to furnish:  
+      <p>You will need to furnish:  
  </p><ol> 
 <li>The proposed street name and the supporting reasons.</li>  
 <li>Dimensions of street (length and width) and the road category of the street to be named</li>  
