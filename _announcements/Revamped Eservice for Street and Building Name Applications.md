@@ -24,4 +24,4 @@ Date: 4 April 2022<br>
 <br>
 Thank You.<br>
 <br>  
-STREET AND BUILDING NAMES BOARD
+Street and Building Names Board
