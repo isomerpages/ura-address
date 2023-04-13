@@ -4,7 +4,7 @@ permalink: /circulars/2022-01/
 description: ""
 ---
 Date: 4 April 2022<br>
-[Superceded by "Launch of New One Stop Portal for House and Unit Number and Street and Building Name Applications" announcement dated 26 Apr 2023]
+**[Superceded by "Launch of New One Stop Portal for House and Unit Number and Street and Building Name Applications" announcement dated 26 Apr 2023]**
 
 1.  The Street and Building Names Board (SBNB) is pleased to launch the revamped SBNB e-service. The new e-service aims to improve applicants’ experience by making it easier to make the application online.<br>        
 
