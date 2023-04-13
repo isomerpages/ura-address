@@ -7,21 +7,21 @@ description: ""
 
 <h3>The Role of the Street and Building Names Board</h3>
 
-The Street and Building Names Board (SBNB) evaluates and approves street, building and estate name applications to ensure that names are appropriate in the context of the location and the physical attributes of the buildings and streets.  
+<p align="justify">The Street and Building Names Board (SBNB) evaluates and approves street, building and estate name applications to ensure that names are appropriate in the context of the location and the physical attributes of the buildings and streets.  
   
 The Board comprises representatives from government agencies and the private sector.  
   
-Building owners and developers are required to submit naming applications to SBNB to ensure the appropriateness of the proposed names.
+Building owners and developers are required to submit naming applications to SBNB to ensure the appropriateness of the proposed names.</p>
 
 <h3>Singapore Street, Building and Place Names</h3>
 
 <a href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Street-and-Building-Names/SBNBpublication2020.pdf"><img src="/images/SBNB%20Publication.png" style="width:200px"></a>
 
-Find out more about the history of street and building naming in this special Bicentennial publication Singapore Street, Building and Place Names.
+<p align="justify">Find out more about the history of street and building naming in this special Bicentennial publication Singapore Street, Building and Place Names.</p>
 
 <h3>Street and Building Naming Guidelines</h3>
 
-Street and building names should provide clear location or direction cues to the public so that they can locate properties and essential services quickly and efficiently.  
+<p align="justify">Street and building names should provide clear location or direction cues to the public so that they can locate properties and essential services quickly and efficiently.</p>
   
 A good name is one that:  
   
@@ -31,7 +31,7 @@ A good name is one that:
 * Retains the history of the building or the area  
 * Is unique, reasonably short and easy to pronounce, spell and remember  
   
-We encourage applicants to read through the naming principles and guidelines in the Handbooks below.
+<p align="justify">We encourage applicants to read through the naming principles and guidelines in the Handbooks below.</p>
 
 <div class="row">
 <a href="https://www.ura.gov.sg/Corporate/Guidelines/-/media/932EC294D97B4918BBB4F83307A90BB6.ashx"><img src="/images/Building%20Name%20Handbook.png" style="margin-left:150px;margin-right: 50px;width:200px"></a>
@@ -40,4 +40,4 @@ We encourage applicants to read through the naming principles and guidelines in 
 
 <h3>Apply</h3>
 
-You may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our e-service. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.
+<p align="justify">You may <a href="https://digitalservice.propertynaa.gov.sg">submit an application</a> through our e-service. Generally, it takes 4 to 6 weeks to process an application. Applications are free of charge.</p>
