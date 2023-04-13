@@ -31,7 +31,7 @@ description: ""
 
 
 
-<a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/hn-handbook.pdf?sfvrsn=aa992812_6"><img src="/images/iras%20handbook.png" style="width:200px"></a>
+<a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/hn-handbook.pdf?sfvrsn=aa992812_6"><img src="/images//house%20and%20unit%20numbering%20handbook_thumbnail.png" style="width:200px"></a>
 
 <h3>Apply</h3>
 
