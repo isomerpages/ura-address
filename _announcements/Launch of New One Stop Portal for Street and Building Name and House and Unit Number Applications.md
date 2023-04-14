@@ -17,8 +17,8 @@ c.&nbsp;&nbsp;&nbsp;&nbsp; auto-retrieval of applicant’s particulars via MyInf
 
 d.&nbsp;&nbsp;&nbsp;&nbsp; automated checks to help applicants comply with IRAS and SBNB guidelines.<br>
 
-<p align="justify">All new applications for both street and building names and house and unit numbers can now be submitted through the new e-service. The e-service can be accessed at <a href="https://digitalservice.propertynaa.gov.sg">https://digitalservice.propertynaa.gov.sg</a>. For ease of transition, IRAS will continue to accept manual applications for house and unit number until 30 Jun 2023.</p><br>
-<p align="justify">Other than the e-service, a new informational website at <a href="https://propertynaa.gov.sg">https://propertynaa.gov.sg</a> will consolidate guidelines and FAQs for applications regarding both street and/or building names and house and unit numbers.</p><br>
+<p align="justify">All new applications for both street and building names and house and unit numbers can now be submitted through the new e-service. The e-service can be accessed at <a href="https://digitalservice.propertynaa.gov.sg">https://digitalservice.propertynaa.gov.sg</a>. For ease of transition, IRAS will continue to accept manual applications for house and unit number until 30 Jun 2023.</p>
+<p align="justify">Other than the e-service, a new informational website at <a href="https://propertynaa.gov.sg">https://propertynaa.gov.sg</a> will consolidate guidelines and FAQs for applications regarding both street and/or building names and house and unit numbers.</p>
 
 <p align="justify">We would appreciate it if you could convey the contents of this circular to relevant members of your organisation. For feedback or enquiries on this circular, please <a href="https://digitalservice.propertynaa.gov.sg/contact/">contact us</a>.</p><br>
 <br>
