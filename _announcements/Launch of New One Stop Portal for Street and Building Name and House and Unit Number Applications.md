@@ -6,7 +6,7 @@ description: ""
 ---
 <i>Date: 26 April 2023</i>
 
-<p align="justify">The Street and Building Names Board (SBNB) and Inland Revenue Authority of Singapore (IRAS) are pleased to announce the launch of the <b>Property Name and Address</b>  e-service. This new e-service aims to provide greater convenience for users to apply for street and building names and house and unit numbers on the same platform.</p><br>
+<p align="justify">The Street and Building Names Board (SBNB) and Inland Revenue Authority of Singapore (IRAS) are pleased to announce the launch of the <b>Property Name and Address</b>  e-service. This new e-service aims to provide greater convenience for users to apply for street and building names and house and unit numbers on the same platform.</p>
 Designed based on industry feedback, the new e-service includes features such as:
 
 a.&nbsp;&nbsp;&nbsp;&nbsp; an improved interface for easier viewing and managing of multiple applications,
