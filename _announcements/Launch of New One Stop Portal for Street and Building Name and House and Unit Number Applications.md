@@ -21,7 +21,7 @@ d.&nbsp;&nbsp;&nbsp;&nbsp; automated checks to help applicants comply with IRAS 
 
 <p align="justify">Other than the e-service, a new informational website at <a href="https://propertynaa.gov.sg">https://propertynaa.gov.sg</a> will consolidate guidelines and FAQs for applications regarding both street and/or building names and house and unit numbers.</p>
 
-<p align="justify">We would appreciate it if you could convey the contents of this circular to relevant members of your organisation. For feedback or enquiries on this circular, please <a href="https://digitalservice.propertynaa.gov.sg/contact/">contact us</a>.</p>
+<p align="justify"> For feedback or enquiries, please <a href="https://digitalservice.propertynaa.gov.sg/contact/">contact us</a>.</p>
 <p>Thank you.</p>
 <br>
 <br>
