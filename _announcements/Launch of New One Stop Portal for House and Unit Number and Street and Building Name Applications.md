@@ -25,7 +25,7 @@ Other than the e-service, a new informational website at [https://propertynaa.go
 We would appreciate it if you could convey the contents of this circular to relevant members of your organisation. For feedback or enquiries on this circular, please [contact](https://digitalservice.propertynaa.gov.sg/contact/) us.<br>
 <br>
 Thank you.
-
-Inland Revenue Authority of Singapore 
-
+<br>
+<br>
+Inland Revenue Authority of Singapore<br>
 Street and Building Names Board
