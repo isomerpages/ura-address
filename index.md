@@ -1,32 +1,31 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Property Name and Address
+description: Property Name and Address
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Property Name and Address
+      background: /images/Hero Image.png
+      button: Submit an application
+      url: https://digitalservice.propertynaa.gov.sg
+  - infopic:
+      title: Street and Building Names
+      description: The Street and Building Names Board (SBNB) ensures that street and
+        building names are appropriate in the context of their location and
+        physical attributes.
+      button: Guidelines
+      url: /guidelines/sbnb
+      image: /images/Singapore Skyline 4k.png
+      alt: Singapore skyline picture
+  - infopic:
+      title: House and Unit Numbers
+      description: The Inland Revenue Authority of Singapore (IRAS) ensures that
+        properties are numbered appropriately for identification purposes.
+      button: Guidelines
+      url: /guidelines/house-and-unit-numbers
+      image: /images/Number Pic.png
+      alt: House and Unit number picture
 ---
-

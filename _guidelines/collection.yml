@@ -1,0 +1,6 @@
+collections:
+  guidelines:
+    output: true
+    order:
+      - Street and Building Names.md
+      - House and Unit Numbers.md
