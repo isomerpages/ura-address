@@ -17,7 +17,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; an interactive map for easy selection of the property
 c.&nbsp;&nbsp;&nbsp;&nbsp; auto-retrieval of applicant’s particulars via MyInfo, and
 
 d.&nbsp;&nbsp;&nbsp;&nbsp; automated checks to help applicants comply with IRAS and SBNB guidelines.<br>
-<br>
 
 All new applications for both house and unit numbers and street and building names can now be submitted through the new e-service. The e-service can be accessed at&nbsp;[https://digitalservice.propertynaa.gov.sg](https://digitalservice.propertynaa.gov.sg "https://digitalservice.propertynaa.gov.sg/"). For ease of transition, IRAS will continue to accept manual applications for house and unit number until 30 Jun 2023.<br>
 <br>
