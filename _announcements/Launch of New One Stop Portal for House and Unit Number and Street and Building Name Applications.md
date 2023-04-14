@@ -4,7 +4,7 @@ title: Launch of New One Stop Portal for House and Unit Number and Street and
 permalink: /circulars/2023-01/
 description: ""
 ---
-Date: 26 April 2023
+<i>Date: 26 April 2023</i>
 
 1. The Inland Revenue Authority of Singapore (IRAS) and Street and Building Names Board (SBNB) are pleased to announce the launch of the **Property Name and Address**  e-service. This new e-service aims to provide greater convenience for users to apply for house and unit numbers and street and building names on the same platform.<br>
 <br>
