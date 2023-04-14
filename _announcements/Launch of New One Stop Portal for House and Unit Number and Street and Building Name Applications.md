@@ -20,7 +20,7 @@ d.&nbsp;&nbsp;&nbsp;&nbsp; automated checks to help applicants comply with IRAS 
 
 All new applications for both house and unit numbers and street and building names can now be submitted through the new e-service. The e-service can be accessed at&nbsp;[https://digitalservice.propertynaa.gov.sg](https://digitalservice.propertynaa.gov.sg "https://digitalservice.propertynaa.gov.sg/"). For ease of transition, IRAS will continue to accept manual applications for house and unit number until 30 Jun 2023.<br>
 <br>
-Other than the e-service, a new informational website at https://propertynaa.gov.sg will consolidate guidelines and FAQs for applications regarding both house and unit numbers and street and/or building names.<br>
+Other than the e-service, a new informational website at [https://propertynaa.gov.sg](https://propertynaa.gov.sg) will consolidate guidelines and FAQs for applications regarding both house and unit numbers and street and/or building names.<br>
 <br>
 We would appreciate it if you could convey the contents of this circular to relevant members of your organisation. For feedback or enquiries on this circular, please [contact](https://digitalservice.propertynaa.gov.sg/contact/) us.<br>
 <br>
