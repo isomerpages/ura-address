@@ -2,5 +2,5 @@ collections:
   announcements:
     output: true
     order:
-      - Launch of New One Stop Portal for House and Unit Number and Street and
-        Building Name Applications.md
+      - Launch of New One Stop Portal for Street and Building Name and House and
+        Unit Number Applications.md
