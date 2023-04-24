@@ -4,7 +4,7 @@ permalink: /privacy/
 ---
 ### **Government Agency Privacy Statement**
 
-1. This is a Government of Singapore website<br>
+1. This is a Singapore Government Agency website.<br>
 <br>
 2. If you are only browsing this website, we do not capture data that allows us to identify you individually.<br>
 <br>
