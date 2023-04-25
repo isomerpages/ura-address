@@ -112,7 +112,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
     <input type="checkbox" id="accordion15">
     <label for="accordion15">Where can I find information on all existing building names in Singapore?</label>
     <div>
-      <p>You can <a href="https://digitalservice.propertynaa.gov.sg/eservice/checkapprovednames">search for existing building names.</a></p>
+      <p>You can <a href="https://digitalservice.propertynaa.gov.sg/eservice/search">search for existing building names.</a></p>
           </div>
 </li>
 	
@@ -227,7 +227,7 @@ Naming of Buildings and Estates.</a> Some of the key guidelines are shown below:
     <input type="checkbox" id="accordion27">
     <label for="accordion27">Where can I find information on all existing street names in Singapore?</label>
     <div>
-      <p>You can <a href="https://digitalservice.propertynaa.gov.sg/eservice/checkapprovednames">search for existing street names.</a></p>
+      <p>You can <a href="https://digitalservice.propertynaa.gov.sg/eservice/search">search for existing street names.</a></p>
           </div>
 </li>
 	
