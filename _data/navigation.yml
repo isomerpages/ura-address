@@ -10,3 +10,8 @@ links:
     url: /announcements
   - title: Contact Us
     url: https://digitalservice.propertynaa.gov.sg/eservice/contact/
+  - title: Services
+    url: /permalink
+    sublinks:
+      - title: Check Application Status
+        url: https://digitalservice.propertynaa.gov.sg/eservice/checkApplication
