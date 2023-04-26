@@ -2,6 +2,13 @@ logo: /images/combined logo 4.png
 links:
   - title: Apply
     url: https://digitalservice.propertynaa.gov.sg
+  - title: Services
+    url: /permalink
+    sublinks:
+      - title: Check Application Status
+        url: https://digitalservice.propertynaa.gov.sg/eservice/checkApplication
+      - title: Search for Names and Addresses
+        url: https://digitalservice.propertynaa.gov.sg/eservice/search
   - title: Guidelines
     collection: guidelines
   - title: FAQ
