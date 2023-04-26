@@ -15,3 +15,5 @@ links:
     sublinks:
       - title: Check Application Status
         url: https://digitalservice.propertynaa.gov.sg/eservice/checkApplication
+      - title: Search for Names and Addresses
+        url: https://digitalservice.propertynaa.gov.sg/eservice/search
