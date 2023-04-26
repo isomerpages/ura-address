@@ -3,7 +3,7 @@ links:
   - title: Apply
     url: https://digitalservice.propertynaa.gov.sg
   - title: Services
-    url: "#"
+    url: .
     sublinks:
       - title: Check Application Status
         url: https://digitalservice.propertynaa.gov.sg/eservice/checkApplication
