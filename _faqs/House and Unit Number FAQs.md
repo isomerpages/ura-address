@@ -54,5 +54,5 @@ description: ""
     <input type="checkbox" id="accordion7">
     <label for="accordion7">How do I apply using the House and/or Unit Number Application e-Service?</label>
     <div>
-    <p align="justify"> You may refer to the <a href="/files/user%20guide%20-%20apply%20or%20withdraw%20house%20and%20unit%20number.pdf)">User Guide on How to Apply or Withdraw House and Unit Number</a>. 
+    <p align="justify"> You may refer to the <a href="/files/user%20guide%20-%20apply%20or%20withdraw%20house%20and%20unit%20number.pdf">User Guide on How to Apply or Withdraw House and Unit Number</a>. 
           </p></div></li></ul>
