@@ -17,12 +17,6 @@ links:
       - title: House and Unit Numbers
         url: /guidelines/house-and-unit-numbers/
   - title: FAQ
-    collection: faqs
-  - title: Announcements
-    url: /announcements
-  - title: Contact Us
-    url: https://digitalservice.propertynaa.gov.sg/eservice/contact/
-  - title: FAQ
     url: "#"
     sublinks:
       - title: General FAQs
@@ -31,3 +25,7 @@ links:
         url: /faq/sbnb-faqs/
       - title: House and Unit Number FAQs
         url: /faq/house-unit-faqs/
+  - title: Announcements
+    url: /announcements
+  - title: Contact Us
+    url: https://digitalservice.propertynaa.gov.sg/eservice/contact/
