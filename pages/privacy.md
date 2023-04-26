@@ -16,4 +16,4 @@ permalink: /privacy/
 <br>
 6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.<br>
 <br>
-7. Please <a href="https://digitalservice.propertynaa.gov.sg/contact/">contact us</a> for any enquires or feedback on our data protection policies and procedures, or if you require more information on or access to the data which you have earlier provided to us.
+7. Please <a href="https://digitalservice.propertynaa.gov.sg/eservice/contact/">contact us</a> for any enquires or feedback on our data protection policies and procedures, or if you require more information on or access to the data which you have earlier provided to us.
