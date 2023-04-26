@@ -10,17 +10,20 @@ links:
       - title: Search for Names and Addresses
         url: https://digitalservice.propertynaa.gov.sg/eservice/search
   - title: Guidelines
-    collection: guidelines
-  - title: FAQ
-    collection: faqs
-  - title: Announcements
-    url: /announcements
-  - title: Contact Us
-    url: https://digitalservice.propertynaa.gov.sg/eservice/contact/
-  - title: Guidelines
     url: "#"
     sublinks:
       - title: Street and Building Names
         url: /guidelines/sbnb/
       - title: House and Unit Numbers
         url: /guidelines/house-and-unit-numbers/
+  - title: FAQ
+    collection: faqs
+  - title: Announcements
+    url: /announcements
+  - title: Contact Us
+    url: https://digitalservice.propertynaa.gov.sg/eservice/contact/
+  - title: FAQ
+    url: "#"
+    sublinks:
+      - title: General FAQs
+        url: /faq/general/
