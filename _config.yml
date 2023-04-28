@@ -1,5 +1,5 @@
 title: Property Name and Address
-url: https://www.open.gov.sg
+url: https://www.propertynaa.gov.sg
 favicon: /images/sbnb favicon.png
 colors:
   primary-color: "#3196b6"
@@ -56,3 +56,4 @@ is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
