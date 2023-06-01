@@ -51,8 +51,16 @@ description: ""
 </li>	
 	
 <li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">How do I apply using the House and/or Unit Number Application e-Service?</label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">How do I apply using the House and/or Unit Number Application e-Service?</label>
     <div>
     <p align="justify"> You may refer to the <a href="/files/user%20guide%20-%20apply%20or%20withdraw%20house%20and%20unit%20number.pdf">User Guide on How to Apply or Withdraw House and Unit Number</a>. 
+			</p><p>
+				</p></div></li><li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">How do I retrieve the Certificate of Numbering (CON)?</label>
+    <div>
+<p align="justify"> The applicant has to login through our e-Service to download the CON within 30 days from the day the application is approved. 
+</p><p align="justify"> In the event that you require a copy of CON issued previously, the property owner has to submit a search request here to provide the details. The search fee of $20 per development is applicable.
+
           </p></div></li></ul>
