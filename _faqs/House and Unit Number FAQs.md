@@ -60,7 +60,7 @@ description: ""
     <input type="checkbox" id="accordion7">
     <label for="accordion7">How do I retrieve the Certificate of Numbering (CON)?</label>
     <div>
-<p align="justify"> The applicant has to login through our e-Service to download the CON within 30 days from the day the application is approved. 
-</p><p align="justify"> In the event that you require a copy of CON issued previously, the property owner has to submit a search request here to provide the details. The search fee of $20 per development is applicable.
+    <p align="justify"> The applicant has to login through our e-Service to download the CON within 30 days from the day the application is approved. 
+    </p><p align="justify"> In the event that you require a copy of CON issued previously, the property owner has to submit a search request here to provide the details. The search fee of $20 per development is applicable.
 
-          </p></div></li></ul>
+ </p></div></li></ul>
