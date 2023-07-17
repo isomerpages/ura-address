@@ -63,6 +63,6 @@ description: ""
     <label for="accordion7">How do I retrieve the Certificate of Numbering (CON)?</label>
     <div>
     <p align="justify"> The applicant has to login through our e-Service to download the CON within 30 days from the day the application is approved. 
-</p><p align="justify"> In the event that you require a copy of CON issued previously, the property owner has to submit a search request <a href="https://digitalservice.propertynaa.gov.sg/eservice/contact/">here</a> to provide the details. The search fee of $20 per development is applicable.
+</p><p align="justify"> In the event that you require a copy of CON issued previously, the property owner has to <a href="https://digitalservice.propertynaa.gov.sg/eservice/contact/">submit a search request</a> with the property details. The search fee of $20 per property is applicable.
 
  </p></div></li></ul>
