@@ -1,9 +1,10 @@
 ---
 title: House and Unit Numbers
 permalink: /guidelines/house-and-unit-numbers/
-description: ""
+description: Guidelines on applying for House and Unit Numbers.
+variant: markdown
 ---
-![Houaw &amp; Unit Number Pic](/images/House%20&amp;%20Unit%20Pic%204k.png)
+![House and Unit Number Pic](/images/House%20&amp;%20Unit%20Pic%204k.png)
 
 <h3>Role to Allot and Alter House and Unit Numbers </h3>
 
@@ -13,7 +14,7 @@ description: ""
 
 <p align="justify">The allotted number in combination with the name of the street where it is located, forms a unique address.</p><p></p>
 
-<img src="/images/address%20format%20image.png" style="width:700px">
+<img alt="A house address comprises [House Number] [Street Name] [# Unit Number, if any] Singapore [Postal Code]" style="width:700px" src="/images/address%20format%20image.png">
 
 <h3>House and Unit Numbering Guidelines</h3>
 
@@ -29,7 +30,7 @@ description: ""
 <p align="justify">We encourage applicants to read through the house and unit number guidelines in the handbook below. It explains the importance of house and unit number, and the considerations by IRAS when approving house and/or unit number applications.</p>
 <p></p>
 
-<a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/hn-handbook.pdf?sfvrsn=aa992812_11"><img src="/images/house%20and%20unit%20numbering%20handbook_thumbnail.png" style="width:200px"></a>
+<a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/hn-handbook.pdf?sfvrsn=aa992812_11"><img alt="House and Unit Numbering Handbook" style="width:200px" src="/images/house%20and%20unit%20numbering%20handbook_thumbnail.png"></a>
 
 <h3>Apply</h3>
 

@@ -1,7 +1,8 @@
 ---
 title: General FAQs
 permalink: /faq/general/
-description: ""
+description: Frequently Asked Questions on applying for property names and addresses.
+variant: tiptap
 ---
 <h4>Application Information</h4>
 <ul class="jekyllcodex_accordion">

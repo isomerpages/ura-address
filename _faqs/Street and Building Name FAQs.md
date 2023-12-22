@@ -1,7 +1,8 @@
 ---
 title: Street and Building Name FAQs
 permalink: /faq/sbnb-faqs/
-description: ""
+description: Frequently Asked Questions on applying for Street and Building Names.
+variant: tiptap
 ---
 <h4>General Information</h4>
 

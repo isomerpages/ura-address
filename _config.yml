@@ -2,8 +2,8 @@ title: Property Name and Address
 url: https://www.propertynaa.gov.sg
 favicon: /images/sbnb favicon.png
 colors:
-  primary-color: "#3196b6"
-  secondary-color: "#4372d6"
+  primary-color: "#2b7f9c"
+  secondary-color: "#3669d3"
   media-colors:
     - title: media-color-one
       color: "#49759a"

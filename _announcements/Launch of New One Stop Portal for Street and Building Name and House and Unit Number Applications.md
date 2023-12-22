@@ -2,7 +2,8 @@
 title: Launch of New One Stop Portal for Street and Building Name and House and
   Unit Number Applications
 permalink: /announcements/2023-01/
-description: ""
+description: Announcement of the Launch of the Property Name and Address e-service.
+variant: tiptap
 ---
 <i>Date: 26 April 2023</i>
 
