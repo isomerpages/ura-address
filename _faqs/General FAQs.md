@@ -1,7 +1,7 @@
 ---
 title: General FAQs
 permalink: /faq/general/
-description: Frequently Asked Questions on applying for property names and addresses.
+description: Browse frequently asked questions on applying for a property name or address.
 variant: tiptap
 ---
 <h4>Application Information</h4>

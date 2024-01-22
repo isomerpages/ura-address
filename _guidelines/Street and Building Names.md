@@ -1,7 +1,9 @@
 ---
 title: Street and Building Names
 permalink: /guidelines/sbnb/
-description: Guidelines on applying for Street and Building Names.
+description: Applying for street and building names in Singapore? Refer to our
+  guidelines for the necessary information to prepare before you make an
+  application.
 variant: markdown
 ---
 ![Singapore Skyline Image](/images/Singapore%20Skyline%204k.png)

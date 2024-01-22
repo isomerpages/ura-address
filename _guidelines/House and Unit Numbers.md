@@ -1,7 +1,9 @@
 ---
 title: House and Unit Numbers
 permalink: /guidelines/house-and-unit-numbers/
-description: Guidelines on applying for House and Unit Numbers.
+description: Applying for house and unit numbers in Singapore? Refer to our
+  guidelines for the necessary information to prepare before you make an
+  application.
 variant: markdown
 ---
 ![House and Unit Number Pic](/images/House%20&amp;%20Unit%20Pic%204k.png)

@@ -1,7 +1,7 @@
 ---
 title: House and Unit Number FAQs
 permalink: /faq/house-unit-faqs/
-description: Frequently Asked Questions on applying for House and Unit Numbers.
+description: Browse frequently asked questions on applying for a House or Unit number.
 variant: tiptap
 ---
 <h4>House and Unit Number</h4>
