@@ -1,0 +1,31 @@
+logo: /images/combined logo 4.png
+links:
+  - title: Apply
+    url: https://digitalservice.propertynaa.gov.sg
+  - title: Services
+    url: "#"
+    sublinks:
+      - title: Check Application Status
+        url: https://digitalservice.propertynaa.gov.sg/eservice/checkApplication
+      - title: Search for Names and Addresses
+        url: https://digitalservice.propertynaa.gov.sg/eservice/search
+  - title: Guidelines
+    url: "#"
+    sublinks:
+      - title: Street and Building Names
+        url: /guidelines/sbnb/
+      - title: House and Unit Numbers
+        url: /guidelines/house-and-unit-numbers/
+  - title: FAQ
+    url: "#"
+    sublinks:
+      - title: General FAQs
+        url: /faq/general/
+      - title: Street and Building Name FAQs
+        url: /faq/sbnb-faqs/
+      - title: House and Unit Number FAQs
+        url: /faq/house-unit-faqs/
+  - title: Announcements
+    url: /announcements
+  - title: Contact Us
+    url: https://digitalservice.propertynaa.gov.sg/eservice/contact/
